@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>deploy</title>
+
+<script src="/static/jquery/jquery.js"></script>
+<script src="/static/echarts/echarts.min.js"></script>
+<link rel="stylesheet" href="/static/css/bootstrap.min.css">
+<link rel="stylesheet" href="/static/css/bootstrap-theme.min.css">
+<script src="/static/js/bootstrap.min.js"></script>
+ <style>
+iframe {width:500px;height:90px;}
+ body{
+   /*background: blue;*/
+   background-repeat: no-repeat;
+   background-size:100% 100%;
+   background-attachment: fixed;
+   background-image:url('static/bj.jpg')
+
+   }
+.STYLE9 {
+        color: #FFFFFF;
+}
+.four{
+    margin:10px;
+
+</style>
+</head>
+<body>
+
+
+<div class="page-header">
+        <h1 align="center" class="STYLE9">火树部署页面</h1>
+        <h5 align="center" class="STYLE9"><strong>快速跳转:
+        <button   type="button"     class="btn btn-primary btn-xs" onClick="window.open('/admin','_self')">跳转ops后台</button> 
+        <button   type="button"    class="btn btn-primary btn-xs" onClick="window.open('/loginout/','_blank')">用户退出</button> 
+    </div>
+<div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <span class="STYLE9">
+                        <!--<h3 align="center" class="STYLE9"><strong>杭州斯凯网络</strong></h3> -->
+                             杭州火树科技有限公司成立于2016年，是斯凯集团（2010年纳斯达克上市企业）旗下专业从事医疗大数据的子公司。
+                        火树科技以医疗支付改革为主线，着力打造“医数”核心产品平台和按病种控费、财务管理分析等多级应用，旨在帮助医院、医保、商保提升运营管理效率，让更多的老百姓看得起病。
+                        </span>
+                </div>
+         </div>
+
+
+
+</div>
+<br>
+<div class="container">
+                <!-- <div class="col-md-2"> -->
+                  <div class="col-md-2">
+                    <ul class="nav nav-pills nav-stacked"  style="height: 330px;">
+                        <li class="active"><a href="#panel-13" data-toggle="tab"><strong>第一步操作</strong></a></li>
+                         <li><a href="#panel-14" data-toggle="tab"><strong>部署单病种控费</strong></a> </li>
+                        <li><a href="#panel-15" data-toggle="tab"><strong>部署数据中心</strong></a> </li>
+                         <li><a href="#panel-16" data-toggle="tab"><strong>部署门诊系统</strong></a></li>
+                         <li><a href="#panel-17" data-toggle="tab"><strong>短信系统</strong></a></li>
+                         <li><a href="#panel-18" data-toggle="tab"><strong>智能扣款系统</strong></a></li>
+                         <li><a href="#panel-19" data-toggle="tab"><strong>指标库系统</strong></a></li>
+                         <li><a href="#panel-20" data-toggle="tab"><strong>数据集上传系统</strong></a></li>
+                         <li><a href="#panel-21" data-toggle="tab"><strong>BI系统</strong></a></li>
+                         <li><a href="#panel-25" data-toggle="tab"><strong>辅助功能</strong></a></li>
+                     
+                          
+                      <!--  <li><a href="#panel-18" data-toggle="tab"><strong>发布5 </strong></a></li>
+                        <li><a href="#panel-19" data-toggle="tab"><strong>发布6</strong></a></li>
+                        <li><a href="#panel-20" data-toggle="tab"><strong>发布7</strong></a></li>    -->
+                    </ul>
+                </div>
+                <dev class="row">
+                    <div class="col-md-10" style="height: 500px;">
+                        <div class="tab-content">
+                            <div class="btn-group" role="group" aria-label="..."></div>
+                            <div class="tab-pane active" id="panel-13">
+                                     <p><span class="STYLE9">先按顺序逐个升级所需各sql文件<br>再将解压后的前端文件及docker工程放置到/root/deploy/应用服务器下</span></p>
+                                    <button class="btn btn-primary " type="button" onClick="window.open('/hs/dqdep_run','_blank')">点击部署前端、导入docker工程</button>
+                                   <p><p> <br>
+                    </div>
+                            <div class="tab-pane " id="panel-14">
+                                <p><span class="STYLE9"><strong>单病种部署</strong></span></p>
+                              <div class="btn-group btn-group">
+                                <button class="btn btn-primary " type="button" onClick="window.open('/hs/drgs_index','_blank')">drgs部署页面</button>
+                            </div>                              
+                            </div>  
+                                <div class="tab-pane " id="panel-15">
+                                <p><span class="STYLE9"><strong>数据中心部署</strong></span></p>
+                                    <button class="btn btn-primary " type="button" onClick="window.open('/hs/hdc_index','_blank')">hdc-manager部署页面</button>
+                                    <button class="btn btn-primary " type="button" onClick="window.open('/hs/etl_index','_blank')">etlloader部署页面</button>
+                                <p></p><p></p>
+                                </div>
+                                <div class="tab-pane " id="panel-16">
+                                <p><span class="STYLE9"><strong>门诊系统部署</strong></span></p>
+                                    <button class="btn btn-primary " type="button" onClick="window.open('/hs/opms_index','_blank')">opms-manager部署页面</button>
+                                <p></p><p></p>
+
+                               </div>
+
+                                <div class="tab-pane " id="panel-17">
+                                <p><span class="STYLE9"><strong>短信部署</strong></span></p>
+                                    <button class="btn btn-primary " type="button" onClick="window.open('/hs/message_index','_blank')">message短信部署页面</button>
+                                <p></p><p></p>
+                               </div>
+
+
+                                <div class="tab-pane " id="panel-18">
+                                <p><span class="STYLE9"><strong>扣款部署</strong></span></p>
+                                    <button class="btn btn-primary " type="button" onClick="window.open('/hs/ida_index','_blank')">ida扣款部署页面</button>
+                                <p></p><p></p>
+                               </div>
+
+                                <div class="tab-pane " id="panel-19">
+                                <p><span class="STYLE9"><strong>指标库部署</strong></span></p>
+                                    <button class="btn btn-primary " type="button" onClick="window.open('/hs/sil_index','_blank')">sil指标库部署页面</button>
+                                <p></p><p></p>
+                               </div>
+
+                                <div class="tab-pane " id="panel-20">
+                                <p><span class="STYLE9"><strong>数据集上传部署</strong></span></p>
+                                    <button class="btn btn-primary " type="button" onClick="window.open('/hs/dsu_index','_blank')">dus数据集上传部署页面</button>
+                                <p></p><p></p>
+                                </div>
+
+                                <div class="tab-pane " id="panel-21">
+                                <p><span class="STYLE9"><strong>BI部署</strong></span></p>
+                                    <button class="btn btn-primary " type="button" onClick="window.open('/hs/skydata_index','_blank')">BI部署页面</button>
+                                <p></p><p></p>
+                                </div>
+
+                             <div class="tab-pane" id="panel-25">
+                                   <p><span class="STYLE9"><strong>重启服务页面</strong></span></p>
+                                    <div class="btn-group btn-group">
+                                    <button class="btn btn-primary " type="button" onClick="window.open('hs/docker_restart','_blank')">重启应用服务</button>
+                                     </div><p><p><br>
+                                <p><span class="STYLE9"><strong>查看docker</strong></span></p>
+                                    <button class="btn btn-primary " type="button" onClick="window.open('/hs/hsps','_blank')">查看docker-container</button>
+                                    <button class="btn btn-primary " type="button" onClick="window.open('/hs/hsps_images','_blank')">查看container-images</button>
+                                 <p></p>
+                                 <br>
+                                 <p><span class="STYLE9"><strong>查看服务器 硬盘，内存，cpu信息</strong></span></p>
+                                    <div class="btn-group btn-group">
+                                    <button class="btn btn-primary " type="button" onClick="window.open('/hs/yy_stats','_blank')">查看应用服务器</button>
+                                    <button class="btn btn-primary " type="button" onClick="window.open('/hs/db_stats','_blank')">查看数据库服务器</button>
+                                     </div>
+							
+</div>
+          <div class="col-md-2">
+          </div>
+
+
+     </div>
+
+</div>
+    <div align="left">
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+    <address class="STYLE9">
+    <strong>v0.1.0</strong><br />
+    </address>
+    </div>
+
+
+
+
+
+</body>
+</html>
+

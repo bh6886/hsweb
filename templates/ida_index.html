@@ -1,0 +1,72 @@
+{% extends "base-dep.html" %}
+{% block NR %} 
+
+
+
+    <h1  class="text-center STYLE5">ida扣款服务docker部署页面</h1>
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-10">
+
+
+   <p><span class="STYLE4"><strong>1.查看服务：</strong></span></p>
+    <input class="btn btn-primary" name="button82" type="button" class="STYLE1"  size="55" onClick="window.open('/hs/docker_images-ida','_blank')" value="查看本机的Image版本"/>
+    <input class="btn btn-primary" name="button82" type="button" class="STYLE1"  size="55" onClick="window.open('/hs/docker_ps-ida','_blank')" value="查看当前运行的版本"/>
+   <br><br>
+
+      <form method="post" id="myForm" target="_blank">
+      <div style="width: 50%;">
+          <p><span class="STYLE4"><strong>2.容器部署：</strong></span></p>
+
+          <input class="form-control" type="text" name="a1" value ="reg01.sky-mobi.com/huoshu/ida:1.0.0.7">
+      </div>
+      </form>
+        <br>
+       <input class="btn btn-primary" type="button"   class="STYLE1"   value="提交部署以上版本" onclick="toSubmit()">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <input class="btn btn-primary" name="button82" type="button" class="STYLE1" onClick="window.open('/hs/docker_restart_parm-ida','_blank')" value="重启服务(非必点)"/> <br><br><br>
+
+
+        <p><span class="STYLE4"><strong>3.检测：</strong></span></p>
+    <input class="btn btn-primary" name="button82" type="button" class="STYLE1" onClick="window.open('/hs/ida_log','_blank')" value="查看应用日志"/>
+
+
+     <br>   {{ss}}
+    </div>
+    <div class="col-md-1"></div>
+</div>
+
+<div class="row">
+  <div class="col-md-1"></div>
+  <div class="col-md-10"><br>     </div>
+  <div class="col-md-1"></div>
+</div>
+
+<div class="row">
+  <div class="col-md-1"></div>
+  <div class="col-md-10">
+
+  </div>
+  <div class="col-md-1"></div>
+</div>
+
+
+
+
+<script type="text/javascript">
+
+(function() {
+        var btn = $(".btn");
+        btn.on("click", function(e) {
+        var thisBtn = $(this);
+        thisBtn.addClass("btn-success").data("stat", "true");
+        });
+        })()
+function toSubmit(){
+    document.getElementById('myForm').submit();//提交
+}
+
+</script>
+    
+    
+{% endblock %}
+

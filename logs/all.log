@@ -1,0 +1,1443 @@
+2018-11-22 18:14:45,397 [Thread-1:139740406580992] [django.request:152] [WARNING]- Not Found: /
+2018-11-22 18:14:45,398 [Thread-1:139740406580992] [django.server:124] [WARNING]- "GET / HTTP/1.1" 404 2016
+2018-11-22 18:14:45,546 [Thread-3:139740406580992] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-22 18:14:45,547 [Thread-3:139740406580992] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2067
+2018-11-22 18:14:48,707 [Thread-4:139740406580992] [django.request:152] [WARNING]- Not Found: /
+2018-11-22 18:14:48,709 [Thread-4:139740406580992] [django.server:124] [WARNING]- "GET / HTTP/1.1" 404 2016
+2018-11-22 18:14:48,819 [Thread-5:139740406580992] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-22 18:14:48,820 [Thread-5:139740406580992] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2067
+2018-11-22 18:15:22,482 [Thread-1:140228238624512] [django.server:124] [INFO]- "GET / HTTP/1.1" 200 33
+2018-11-22 18:15:22,575 [Thread-3:140228238624512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-22 18:15:22,576 [Thread-3:140228238624512] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2067
+2018-11-22 18:16:36,152 [Thread-1:140648233563904] [django.request:152] [WARNING]- Not Found: /hs_ps
+2018-11-22 18:16:36,154 [Thread-1:140648233563904] [django.server:124] [WARNING]- "GET /hs_ps HTTP/1.1" 404 2049
+2018-11-22 18:16:36,279 [Thread-3:140648233563904] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-22 18:16:36,280 [Thread-3:140648233563904] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2067
+2018-11-22 18:17:27,497 [Thread-1:140570483418880] [django.request:152] [WARNING]- Not Found: /hs_ps
+2018-11-22 18:17:27,498 [Thread-1:140570483418880] [django.server:124] [WARNING]- "GET /hs_ps HTTP/1.1" 404 2050
+2018-11-22 18:17:27,650 [Thread-3:140570483418880] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-22 18:17:27,651 [Thread-3:140570483418880] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2068
+2018-11-22 18:17:31,977 [Thread-4:140570483418880] [django.request:152] [WARNING]- Not Found: /
+2018-11-22 18:17:31,979 [Thread-4:140570483418880] [django.server:124] [WARNING]- "GET / HTTP/1.1" 404 2017
+2018-11-22 18:17:32,085 [Thread-5:140570483418880] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-22 18:17:32,086 [Thread-5:140570483418880] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2068
+2018-11-22 18:17:36,104 [Thread-6:140570483418880] [django.request:152] [WARNING]- Not Found: /
+2018-11-22 18:17:36,105 [Thread-6:140570483418880] [django.server:124] [WARNING]- "GET / HTTP/1.1" 404 2017
+2018-11-22 18:17:36,204 [Thread-7:140570483418880] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-22 18:17:36,205 [Thread-7:140570483418880] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2068
+2018-11-22 18:18:06,089 [Thread-1:140408486049536] [django.server:124] [INFO]- "GET / HTTP/1.1" 200 33
+2018-11-22 18:18:06,181 [Thread-3:140408486049536] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-22 18:18:06,182 [Thread-3:140408486049536] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2067
+2018-11-22 18:19:52,640 [Thread-1:139791268443904] [django.request:152] [WARNING]- Not Found: /hs_ps/
+2018-11-22 18:19:52,641 [Thread-1:139791268443904] [django.server:124] [WARNING]- "GET /hs_ps/ HTTP/1.1" 404 2052
+2018-11-22 18:19:52,820 [Thread-3:139791268443904] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-22 18:19:52,822 [Thread-3:139791268443904] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2067
+2018-11-22 18:39:19,571 [Thread-1:140337547863808] [django.request:152] [WARNING]- Not Found: /hs_ps/
+2018-11-22 18:39:19,573 [Thread-1:140337547863808] [django.server:124] [WARNING]- "GET /hs_ps/ HTTP/1.1" 404 2156
+2018-11-22 18:39:19,758 [Thread-3:140337547863808] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-22 18:39:19,760 [Thread-3:140337547863808] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2171
+2018-11-22 18:39:21,114 [Thread-4:140337547863808] [django.request:152] [WARNING]- Not Found: /hsps/
+2018-11-22 18:39:21,115 [Thread-4:140337547863808] [django.server:124] [WARNING]- "GET /hsps/ HTTP/1.1" 404 2153
+2018-11-22 18:39:21,214 [Thread-5:140337547863808] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-22 18:39:21,215 [Thread-5:140337547863808] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2171
+2018-11-22 18:39:25,342 [Thread-6:140337547863808] [django.request:152] [WARNING]- Not Found: /hs/hsps/
+2018-11-22 18:39:25,343 [Thread-6:140337547863808] [django.server:124] [WARNING]- "GET /hs/hsps/ HTTP/1.1" 404 2215
+2018-11-22 18:39:25,445 [Thread-7:140337547863808] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-22 18:39:25,446 [Thread-7:140337547863808] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2171
+2018-11-22 18:39:30,551 [Thread-8:140337547863808] [django:19] [INFO]- xxxx:hsps 
+2018-11-22 18:39:30,572 [Thread-8:140337547863808] [django.server:124] [INFO]- "GET /hs/hsps HTTP/1.1" 200 1440
+2018-11-22 18:39:30,893 [Thread-11:140337547863808] [django.request:152] [WARNING]- Not Found: /hs/static/bj.jpg
+2018-11-22 18:39:30,894 [Thread-11:140337547863808] [django.server:124] [WARNING]- "GET /hs/static/bj.jpg HTTP/1.1" 404 2239
+2018-11-22 18:39:31,063 [Thread-12:140337547863808] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-22 18:39:31,065 [Thread-12:140337547863808] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2171
+2018-11-23 14:01:33,500 [Thread-1:140127616694016] [django.server:124] [INFO]- "GET / HTTP/1.1" 200 33
+2018-11-23 14:01:33,639 [Thread-3:140127616694016] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 14:01:33,640 [Thread-3:140127616694016] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2171
+2018-11-23 14:01:51,079 [Thread-4:140127616694016] [django.server:124] [INFO]- "GET / HTTP/1.1" 200 33
+2018-11-23 14:01:51,159 [Thread-5:140127616694016] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 14:01:51,163 [Thread-5:140127616694016] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2171
+2018-11-23 14:01:53,234 [Thread-6:140127616694016] [django.request:152] [WARNING]- Not Found: /hsps
+2018-11-23 14:01:53,236 [Thread-6:140127616694016] [django.server:124] [WARNING]- "GET /hsps HTTP/1.1" 404 2150
+2018-11-23 14:01:53,341 [Thread-7:140127616694016] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 14:01:53,342 [Thread-7:140127616694016] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2171
+2018-11-23 14:01:57,966 [Thread-8:140127616694016] [django:19] [INFO]- xxxx:hsps 
+2018-11-23 14:01:57,970 [Thread-8:140127616694016] [django.server:124] [INFO]- "GET /hs/hsps HTTP/1.1" 200 1440
+2018-11-23 14:01:58,244 [Thread-11:140127616694016] [django.request:152] [WARNING]- Not Found: /hs/static/bj.jpg
+2018-11-23 14:01:58,245 [Thread-11:140127616694016] [django.server:124] [WARNING]- "GET /hs/static/bj.jpg HTTP/1.1" 404 2239
+2018-11-23 14:01:58,329 [Thread-12:140127616694016] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 14:01:58,330 [Thread-12:140127616694016] [django.server:124] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2171
+2018-11-23 15:09:13,553 [uWSGIWorker4Core1:140036163409664] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:20:32,576 [uWSGIWorker3Core0:140036423420032] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:20:44,473 [uWSGIWorker4Core0:139881099581568] [django.request:135] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./blog/views.py", line 22, in index
+    logger.info('当用户:-%s-,执行函数名:%s '%(req.user,sys._getframe().f_code.co_name))
+NameError: global name 'logger' is not defined
+2018-11-23 15:20:44,905 [uWSGIWorker1Core0:139881099581568] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:20:59,369 [uWSGIWorker2Core0:139881099581568] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:20:59,678 [uWSGIWorker3Core0:139881099581568] [django.request:152] [WARNING]- Not Found: /404.html
+2018-11-23 15:20:59,755 [uWSGIWorker1Core1:139880945645312] [django.request:152] [WARNING]- Not Found: /404.html
+2018-11-23 15:20:59,800 [uWSGIWorker2Core1:139880945645312] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:24:24,774 [uWSGIWorker1Core0:139881099581568] [django.request:135] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./blog/views.py", line 22, in index
+    logger = logging.getLogger(__name__)
+NameError: global name 'logger' is not defined
+2018-11-23 15:24:25,165 [uWSGIWorker3Core1:139880945645312] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:27:11,678 [uWSGIWorker1Core0:140231328618624] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:27:12,083 [uWSGIWorker3Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /404.html
+2018-11-23 15:27:12,309 [uWSGIWorker3Core1:140231068608256] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:27:12,380 [uWSGIWorker2Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /404.html
+2018-11-23 15:27:58,241 [uWSGIWorker4Core0:140231328618624] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:27:58,392 [uWSGIWorker4Core1:140231068608256] [django.request:152] [WARNING]- Not Found: /404.html
+2018-11-23 15:27:58,473 [uWSGIWorker1Core1:140231068608256] [django.request:152] [WARNING]- Not Found: /404.html
+2018-11-23 15:27:58,616 [uWSGIWorker2Core1:140231068608256] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:28:42,597 [uWSGIWorker1Core0:140231328618624] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:28:43,579 [uWSGIWorker4Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:31:23,512 [uWSGIWorker4Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:31:24,295 [uWSGIWorker3Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:31:26,110 [uWSGIWorker2Core0:140231328618624] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:31:26,575 [uWSGIWorker3Core1:140231068608256] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:33:26,590 [uWSGIWorker1Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:33:27,086 [uWSGIWorker2Core1:140231068608256] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:34:15,966 [uWSGIWorker1Core0:140231328618624] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:34:16,401 [uWSGIWorker4Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:34:39,575 [uWSGIWorker4Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:34:40,003 [uWSGIWorker4Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:35:23,741 [uWSGIWorker4Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:35:24,182 [uWSGIWorker3Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:35:49,224 [uWSGIWorker3Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:35:49,675 [uWSGIWorker3Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:36:04,649 [uWSGIWorker3Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:36:05,092 [uWSGIWorker3Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:36:16,391 [uWSGIWorker3Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:36:16,822 [uWSGIWorker3Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:36:37,539 [uWSGIWorker3Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:36:38,004 [uWSGIWorker3Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:37:34,887 [uWSGIWorker3Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:37:35,363 [uWSGIWorker3Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:37:43,072 [uWSGIWorker3Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:37:43,512 [uWSGIWorker4Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:37:44,228 [uWSGIWorker2Core0:140231328618624] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:37:45,367 [uWSGIWorker4Core1:140231068608256] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:39:07,150 [uWSGIWorker3Core0:140231328618624] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:39:07,902 [uWSGIWorker4Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:39:11,106 [uWSGIWorker4Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:39:11,502 [uWSGIWorker1Core1:140231068608256] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:41:17,479 [uWSGIWorker3Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:41:17,971 [uWSGIWorker4Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:41:50,051 [uWSGIWorker4Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:41:50,432 [uWSGIWorker1Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:43:00,905 [uWSGIWorker1Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:43:01,300 [uWSGIWorker2Core1:140231068608256] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:43:03,904 [uWSGIWorker3Core0:140231328618624] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:43:04,631 [uWSGIWorker1Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:44:09,467 [uWSGIWorker2Core0:140231328618624] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:44:10,102 [uWSGIWorker1Core1:140231068608256] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:45:06,832 [uWSGIWorker1Core0:140231328618624] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:45:07,936 [uWSGIWorker2Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:45:08,637 [uWSGIWorker3Core1:140231068608256] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:46:57,106 [uWSGIWorker3Core0:140231328618624] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:46:57,845 [uWSGIWorker4Core0:140231328618624] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:48:32,385 [uWSGIWorker3Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:48:32,837 [uWSGIWorker4Core1:140231068608256] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:48:50,589 [uWSGIWorker4Core0:140231328618624] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:48:51,801 [uWSGIWorker4Core1:140231068608256] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:48:52,280 [uWSGIWorker2Core0:140231328618624] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:48:53,022 [uWSGIWorker2Core1:140231068608256] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:49:13,176 [uWSGIWorker2Core0:140231328618624] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:49:14,076 [uWSGIWorker1Core1:140231068608256] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:49:14,507 [uWSGIWorker2Core1:140231068608256] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:51:03,565 [uWSGIWorker2Core0:139850265041024] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:51:05,148 [uWSGIWorker3Core0:139850265041024] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:51:05,909 [uWSGIWorker3Core1:139850111104768] [django.request:152] [WARNING]- Not Found: /sun/A/A_ipset_index
+2018-11-23 15:51:06,243 [uWSGIWorker1Core1:139850111104768] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:52:04,273 [uWSGIWorker1Core0:139850265041024] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:52:04,743 [uWSGIWorker1Core1:139850111104768] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:52:07,444 [uWSGIWorker3Core0:139850265041024] [django:19] [INFO]- 执行模块:hsps 
+2018-11-23 15:52:07,668 [uWSGIWorker3Core1:139850111104768] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:53:14,131 [uWSGIWorker3Core0:139850265041024] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:53:14,579 [uWSGIWorker3Core1:139850111104768] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:53:16,034 [uWSGIWorker1Core0:139850265041024] [django:19] [INFO]- 执行模块:hsps 
+2018-11-23 15:53:16,304 [uWSGIWorker3Core0:139850265041024] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:53:27,959 [uWSGIWorker3Core1:139850111104768] [django:27] [INFO]- 执行模块:hsps_images 
+2018-11-23 15:53:28,175 [uWSGIWorker1Core1:139850111104768] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:53:56,830 [uWSGIWorker4Core0:140531585194112] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 15:53:57,321 [uWSGIWorker4Core1:140531431257856] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:53:58,795 [uWSGIWorker3Core0:140531585194112] [django:20] [INFO]- 执行模块:hsps 
+2018-11-23 15:53:59,041 [uWSGIWorker3Core1:140531431257856] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 15:54:03,609 [uWSGIWorker4Core0:140531585194112] [django:29] [INFO]- 执行模块:hsps_images 
+2018-11-23 15:54:03,955 [uWSGIWorker1Core0:140531585194112] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:08:29,474 [uWSGIWorker3Core0:140489103001728] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 16:08:30,627 [uWSGIWorker1Core0:140489103001728] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:08:31,247 [uWSGIWorker3Core1:140488949065472] [django.request:152] [WARNING]- Not Found: /sun/A/A_appluscms_index
+2018-11-23 16:08:31,333 [uWSGIWorker1Core1:140488949065472] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:09:02,290 [uWSGIWorker2Core0:140054312102016] [django.request:152] [WARNING]- Not Found: /sun/A/A_appluscms_index
+2018-11-23 16:09:02,550 [uWSGIWorker1Core0:140054312102016] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:10:29,484 [uWSGIWorker2Core0:140525240703104] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 16:10:29,990 [uWSGIWorker2Core1:140524980692736] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:10:32,710 [uWSGIWorker4Core0:140525240703104] [django.request:135] [ERROR]- Internal Server Error: /hs/yy_stats
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./hs/views.py", line 41, in yy_stats
+    ss = sun.split('\n')
+NameError: global name 'sun' is not defined
+2018-11-23 16:10:33,051 [uWSGIWorker4Core1:140524980692736] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:10:52,078 [uWSGIWorker4Core0:140566047287424] [django:42] [INFO]- 执行模块:yy_stats 
+2018-11-23 16:10:52,789 [uWSGIWorker1Core0:140566047287424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:11:58,297 [uWSGIWorker2Core0:140566047287424] [django:48] [INFO]- 执行模块:yy_stats 
+2018-11-23 16:11:58,799 [uWSGIWorker4Core1:140565787277056] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:12:48,079 [uWSGIWorker1Core1:140565787277056] [django:42] [INFO]- 执行模块:yy_stats 
+2018-11-23 16:12:48,544 [uWSGIWorker1Core0:140566047287424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:13:06,917 [uWSGIWorker4Core0:139824222972032] [django.request:135] [ERROR]- Internal Server Error: /hs/yy_stats
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./hs/views.py", line 50, in yy_stats
+    sun = 'Disk:'+aa+xx+'\nMemory:\n'+bb+xx+'\nCPU:\n'+cc
+TypeError: coercing to Unicode: need string or buffer, list found
+2018-11-23 16:13:07,394 [uWSGIWorker4Core1:139823962961664] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:13:17,328 [uWSGIWorker4Core0:139824222972032] [django.request:135] [ERROR]- Internal Server Error: /hs/yy_stats
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./hs/views.py", line 50, in yy_stats
+    sun = 'Disk:'+aa+xx+'\nMemory:\n'+bb+xx+'\nCPU:\n'+cc
+TypeError: coercing to Unicode: need string or buffer, list found
+2018-11-23 16:13:17,690 [uWSGIWorker4Core1:139823962961664] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:13:21,942 [uWSGIWorker1Core0:139757606213760] [django:52] [INFO]- 执行模块:yy_stats 
+2018-11-23 16:13:22,396 [uWSGIWorker1Core1:139757346203392] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:13:41,989 [uWSGIWorker1Core0:139757606213760] [django:52] [INFO]- 执行模块:yy_stats 
+2018-11-23 16:13:42,445 [uWSGIWorker1Core1:139757346203392] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:15:07,048 [uWSGIWorker1Core0:139942643054720] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 16:15:08,095 [uWSGIWorker1Core1:139942383044352] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:15:10,394 [uWSGIWorker1Core0:139942643054720] [django:56] [INFO]- 执行模块:db_stats 
+2018-11-23 16:15:10,859 [uWSGIWorker3Core0:139942643054720] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:15:32,276 [uWSGIWorker1Core1:139942383044352] [django.request:152] [WARNING]- Not Found: /sun/mis_adv_index
+2018-11-23 16:15:32,363 [uWSGIWorker1Core0:139942643054720] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:15:55,274 [uWSGIWorker3Core1:139942383044352] [django:43] [INFO]- 执行模块:yy_stats 
+2018-11-23 16:15:55,501 [uWSGIWorker1Core1:139942383044352] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:27:17,028 [uWSGIWorker2Core0:140283847276672] [django.request:135] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 172, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 362, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/lib64/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/lib64/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "./skytest/urls.py", line 27, in <module>
+    url(r'^hs/', include('hs.urls')),
+  File "/usr/lib64/python2.7/site-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "./hs/urls.py", line 2, in <module>
+    from . import views
+  File "./hs/views.py", line 16, in <module>
+    YY_IP = config.get('IP','yy_ip')
+  File "/usr/lib64/python2.7/ConfigParser.py", line 607, in get
+    raise NoSectionError(section)
+NoSectionError: No section: u'IP'
+2018-11-23 16:27:17,760 [uWSGIWorker3Core0:140283847276672] [django.request:135] [ERROR]- Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/utils/deprecation.py", line 138, in __call__
+    response = self.process_request(request)
+  File "/usr/lib64/python2.7/site-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/lib64/python2.7/site-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/lib64/python2.7/site-packages/django/urls/base.py", line 158, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/lib64/python2.7/site-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 362, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/lib64/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/lib64/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "./skytest/urls.py", line 27, in <module>
+    url(r'^hs/', include('hs.urls')),
+  File "/usr/lib64/python2.7/site-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "./hs/urls.py", line 2, in <module>
+    from . import views
+  File "./hs/views.py", line 16, in <module>
+    YY_IP = config.get('IP','yy_ip')
+  File "/usr/lib64/python2.7/ConfigParser.py", line 607, in get
+    raise NoSectionError(section)
+NoSectionError: No section: u'IP'
+2018-11-23 16:28:55,224 [uWSGIWorker3Core0:140658189400192] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 16:28:57,102 [uWSGIWorker2Core0:140658189400192] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:29:00,310 [uWSGIWorker1Core0:140658189400192] [django:28] [INFO]- 执行模块:hsps 
+2018-11-23 16:29:00,809 [uWSGIWorker4Core0:140658189400192] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:29:46,998 [uWSGIWorker4Core0:140162896091264] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 16:29:47,741 [uWSGIWorker3Core0:140162896091264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:29:50,713 [uWSGIWorker4Core1:140162636080896] [django:28] [INFO]- 执行模块:hsps 
+2018-11-23 16:29:51,335 [uWSGIWorker1Core0:140162896091264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:29:53,003 [uWSGIWorker4Core0:140162896091264] [django:37] [INFO]- 执行模块:hsps_images 
+2018-11-23 16:29:53,232 [uWSGIWorker4Core1:140162636080896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:29:56,625 [uWSGIWorker4Core0:140162896091264] [django:51] [INFO]- 执行模块:yy_stats 
+2018-11-23 16:29:56,847 [uWSGIWorker1Core1:140162636080896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:30:00,048 [uWSGIWorker4Core1:140162636080896] [django:64] [INFO]- 执行模块:db_stats 
+2018-11-23 16:30:00,419 [uWSGIWorker4Core0:140162896091264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:47:50,466 [uWSGIWorker4Core0:139910115915904] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 16:47:50,973 [uWSGIWorker1Core0:139910115915904] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:47:52,624 [uWSGIWorker3Core0:139910115915904] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:49:13,950 [uWSGIWorker1Core1:139909855905536] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:49:16,432 [uWSGIWorker3Core1:139909855905536] [django:41] [INFO]- 执行模块:hsps_images 
+2018-11-23 16:49:16,655 [uWSGIWorker1Core0:139910115915904] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:49:18,812 [uWSGIWorker2Core0:139910115915904] [django:32] [INFO]- 执行模块:hsps 
+2018-11-23 16:49:19,025 [uWSGIWorker4Core1:139909855905536] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:51:51,567 [uWSGIWorker2Core0:140711804545152] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:52:23,132 [uWSGIWorker1Core0:140711804545152] [django.request:135] [ERROR]- Internal Server Error: /hs/drgs_log
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./hs/views.py", line 91, in drgs_log
+    sun = obj.exc('root', 'tail -fn 500 /var/log/drgs/drgs.log')
+  File "./blog/inits.py", line 18, in exc
+    return ssh1(self.host,self.port,self.user,'sudo su - %s'%quser,shell)
+  File "./blog/inits.py", line 50, in ssh1
+    ssh.connect(ip,port,user)
+  File "/usr/lib/python2.7/site-packages/paramiko/client.py", line 437, in connect
+    passphrase,
+  File "/usr/lib/python2.7/site-packages/paramiko/client.py", line 749, in _auth
+    raise saved_exception
+AuthenticationException: Authentication failed.
+2018-11-23 16:52:23,647 [uWSGIWorker4Core1:140711544534784] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:52:48,377 [uWSGIWorker1Core1:140711544534784] [django:32] [INFO]- 执行模块:hsps 
+2018-11-23 16:52:48,607 [uWSGIWorker4Core0:140711804545152] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:52:50,131 [uWSGIWorker1Core0:140711804545152] [django.request:135] [ERROR]- Internal Server Error: /hs/drgs_log
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./hs/views.py", line 91, in drgs_log
+    sun = obj.exc('root', 'tail -fn 500 /var/log/drgs/drgs.log')
+  File "./blog/inits.py", line 18, in exc
+    return ssh1(self.host,self.port,self.user,'sudo su - %s'%quser,shell)
+  File "./blog/inits.py", line 50, in ssh1
+    ssh.connect(ip,port,user)
+  File "/usr/lib/python2.7/site-packages/paramiko/client.py", line 437, in connect
+    passphrase,
+  File "/usr/lib/python2.7/site-packages/paramiko/client.py", line 749, in _auth
+    raise saved_exception
+AuthenticationException: Authentication failed.
+2018-11-23 16:52:50,511 [uWSGIWorker1Core1:140711544534784] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:53:33,395 [uWSGIWorker4Core0:140005044746368] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:54:04,575 [uWSGIWorker1Core1:140004784736000] [django.request:152] [WARNING]- Not Found: /nginx-logo.png
+2018-11-23 16:54:04,634 [uWSGIWorker1Core0:140005044746368] [django.request:152] [WARNING]- Not Found: /poweredby.png
+2018-11-23 16:54:04,660 [uWSGIWorker4Core1:140004784736000] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:54:20,669 [uWSGIWorker4Core0:139737534474368] [django:91] [INFO]- 执行函数名:drgs_log 
+2018-11-23 16:54:21,184 [uWSGIWorker2Core0:139737534474368] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:55:02,506 [uWSGIWorker4Core1:139737274464000] [django.security.csrf:160] [WARNING]- Forbidden (CSRF cookie not set.): /hs/drgs_index
+2018-11-23 16:55:02,630 [uWSGIWorker4Core0:139737534474368] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:55:30,743 [uWSGIWorker4Core1:140188460029696] [django.request:135] [ERROR]- Internal Server Error: /hs/drgs_index
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./hs/views.py", line 81, in drgs_index
+    ss = sun.split('\n')
+NameError: global name 'sun' is not defined
+2018-11-23 16:55:31,211 [uWSGIWorker4Core0:140188720040064] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:56:05,352 [uWSGIWorker2Core0:140534733023360] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:56:08,875 [uWSGIWorker4Core1:140534473012992] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:57:01,857 [uWSGIWorker3Core0:139748640041088] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:57:05,301 [uWSGIWorker4Core0:139748640041088] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:57:13,975 [uWSGIWorker1Core0:139748640041088] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:58:10,915 [uWSGIWorker1Core1:140326483814144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:58:23,255 [uWSGIWorker2Core0:140326743824512] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 16:58:23,450 [uWSGIWorker2Core1:140326483814144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:58:27,319 [uWSGIWorker2Core1:140326483814144] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 16:58:27,551 [uWSGIWorker4Core1:140326483814144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:58:29,179 [uWSGIWorker3Core1:140326483814144] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 16:58:29,377 [uWSGIWorker1Core0:140326743824512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:58:31,313 [uWSGIWorker1Core1:140326483814144] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 16:58:31,651 [uWSGIWorker1Core0:140326743824512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:58:33,631 [uWSGIWorker1Core1:140326483814144] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 16:58:33,975 [uWSGIWorker1Core0:140326743824512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 16:58:36,157 [uWSGIWorker1Core1:140326483814144] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 16:58:36,384 [uWSGIWorker1Core0:140326743824512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:03:54,881 [uWSGIWorker2Core0:140326743824512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:03:57,892 [uWSGIWorker1Core0:140326743824512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:03:58,862 [uWSGIWorker3Core0:140326743824512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:04:00,399 [uWSGIWorker3Core1:140326483814144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:04:19,501 [uWSGIWorker4Core1:140326483814144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:04:29,650 [uWSGIWorker3Core0:140326743824512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:04:32,701 [uWSGIWorker3Core1:140326483814144] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 17:04:32,916 [uWSGIWorker4Core1:140326483814144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:04:37,386 [uWSGIWorker4Core0:140326743824512] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 17:04:37,608 [uWSGIWorker4Core1:140326483814144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:04:38,573 [uWSGIWorker4Core0:140326743824512] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 17:04:38,994 [uWSGIWorker1Core0:140326743824512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:06:07,160 [uWSGIWorker4Core1:140594613401344] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:06:28,873 [uWSGIWorker4Core0:140594873411712] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:07:27,986 [uWSGIWorker1Core1:140594613401344] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:07:45,691 [uWSGIWorker1Core0:140594873411712] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:08:01,006 [uWSGIWorker3Core0:140594873411712] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:08:05,139 [uWSGIWorker1Core0:140594873411712] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:08:08,413 [uWSGIWorker4Core1:140594613401344] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:08:22,005 [uWSGIWorker3Core1:140594613401344] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:08:35,046 [uWSGIWorker4Core0:140594873411712] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:08:39,077 [uWSGIWorker4Core1:140594613401344] [django:32] [INFO]- 执行模块:hsps 
+2018-11-23 17:08:49,712 [uWSGIWorker4Core0:140594873411712] [django:41] [INFO]- 执行模块:hsps_images 
+2018-11-23 17:09:53,201 [uWSGIWorker1Core1:140594613401344] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:10:17,108 [uWSGIWorker2Core1:140594613401344] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 17:10:23,650 [uWSGIWorker3Core1:140594613401344] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 17:10:37,089 [uWSGIWorker3Core0:140594873411712] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 17:10:43,790 [uWSGIWorker1Core0:140594873411712] [django:41] [INFO]- 执行模块:hsps_images 
+2018-11-23 17:16:29,658 [uWSGIWorker2Core0:140351872997504] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 17:16:29,933 [uWSGIWorker2Core1:140351612987136] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:16:32,719 [uWSGIWorker3Core0:140351872997504] [django.request:152] [WARNING]- Not Found: /sun/docker/docker_file
+2018-11-23 17:16:32,982 [uWSGIWorker4Core0:140351872997504] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:16:54,919 [uWSGIWorker4Core1:140351612987136] [django.request:152] [WARNING]- Not Found: /sun/docker/docker_file
+2018-11-23 17:16:55,011 [uWSGIWorker3Core1:140351612987136] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:17:02,402 [uWSGIWorker1Core0:140351872997504] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 17:17:02,638 [uWSGIWorker1Core1:140351612987136] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:17:04,605 [uWSGIWorker3Core0:140351872997504] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:17:06,425 [uWSGIWorker2Core0:140351872997504] [django:32] [INFO]- 执行模块:hsps 
+2018-11-23 17:17:06,621 [uWSGIWorker3Core1:140351612987136] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:17:09,046 [uWSGIWorker4Core1:140351612987136] [django:41] [INFO]- 执行模块:hsps_images 
+2018-11-23 17:17:09,262 [uWSGIWorker4Core0:140351872997504] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:17:46,697 [uWSGIWorker4Core1:140351612987136] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:25:04,414 [uWSGIWorker2Core0:139645682542720] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 17:25:04,887 [uWSGIWorker1Core0:139645682542720] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:25:22,900 [uWSGIWorker3Core0:139645682542720] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 17:25:24,288 [uWSGIWorker2Core1:139645422532352] [blog.views:28] [INFO]- 当用户:-AnonymousUser-,执行函数名:index 
+2018-11-23 17:25:25,638 [uWSGIWorker2Core0:139645682542720] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:25:28,176 [uWSGIWorker1Core1:139645422532352] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:25:30,951 [uWSGIWorker1Core0:139645682542720] [django:32] [INFO]- 执行模块:hsps 
+2018-11-23 17:25:31,222 [uWSGIWorker3Core0:139645682542720] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:25:33,502 [uWSGIWorker3Core1:139645422532352] [django:41] [INFO]- 执行模块:hsps_images 
+2018-11-23 17:25:33,745 [uWSGIWorker2Core1:139645422532352] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:26:10,601 [uWSGIWorker2Core0:139645682542720] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:26:15,569 [uWSGIWorker1Core1:139645422532352] [django.request:152] [WARNING]- Not Found: /hs/hdc_log_exe
+2018-11-23 17:26:15,659 [uWSGIWorker1Core0:139645682542720] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:26:47,664 [uWSGIWorker2Core1:139645422532352] [django.request:152] [WARNING]- Not Found: /hs/hdc_log_exe
+2018-11-23 17:26:47,765 [uWSGIWorker2Core0:139645682542720] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:26:50,185 [uWSGIWorker1Core1:139645422532352] [django.request:152] [WARNING]- Not Found: /hs/hdc_log_exe
+2018-11-23 17:26:50,345 [uWSGIWorker4Core1:139645422532352] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:26:52,744 [uWSGIWorker3Core1:139645422532352] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:26:54,532 [uWSGIWorker1Core0:139645682542720] [django:160] [INFO]- 执行函数名:etl_log_exe 
+2018-11-23 17:26:54,770 [uWSGIWorker1Core1:139645422532352] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:27:00,174 [uWSGIWorker4Core0:139645682542720] [django:152] [INFO]- 执行函数名:etl_log_run 
+2018-11-23 17:27:00,379 [uWSGIWorker4Core1:139645422532352] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:27:05,830 [uWSGIWorker2Core1:139645422532352] [django:152] [INFO]- 执行函数名:etl_log_run 
+2018-11-23 17:27:06,029 [uWSGIWorker4Core0:139645682542720] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:28:05,100 [uWSGIWorker4Core1:139645422532352] [django:32] [INFO]- 执行模块:hsps 
+2018-11-23 17:28:05,324 [uWSGIWorker3Core0:139645682542720] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:28:07,809 [uWSGIWorker2Core0:139645682542720] [django:64] [INFO]- 执行模块:db_stats 
+2018-11-23 17:28:08,037 [uWSGIWorker2Core1:139645422532352] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:28:11,004 [uWSGIWorker1Core0:139645682542720] [django:53] [INFO]- 执行模块:yy_stats 
+2018-11-23 17:28:11,286 [uWSGIWorker3Core1:139645422532352] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:28:21,238 [uWSGIWorker1Core1:139645422532352] [django:32] [INFO]- 执行模块:hsps 
+2018-11-23 17:28:21,436 [uWSGIWorker3Core0:139645682542720] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:39:25,223 [uWSGIWorker1Core0:140714497370240] [django.request:135] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 172, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 362, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/lib64/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/lib64/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "./skytest/urls.py", line 26, in <module>
+    url(r'^login/$',blog.views.login),
+NameError: name 'blog' is not defined
+2018-11-23 17:39:25,874 [uWSGIWorker2Core0:140714497370240] [django.request:135] [ERROR]- Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/utils/deprecation.py", line 138, in __call__
+    response = self.process_request(request)
+  File "/usr/lib64/python2.7/site-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/lib64/python2.7/site-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/lib64/python2.7/site-packages/django/urls/base.py", line 158, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/lib64/python2.7/site-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 362, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/lib64/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/lib64/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "./skytest/urls.py", line 26, in <module>
+    url(r'^login/$',blog.views.login),
+NameError: name 'blog' is not defined
+2018-11-23 17:39:45,159 [uWSGIWorker1Core0:139738719074432] [django.request:135] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 172, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 362, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/lib64/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/lib64/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "./skytest/urls.py", line 26, in <module>
+    url(r'^login/$', views.login),
+NameError: name 'views' is not defined
+2018-11-23 17:39:45,840 [uWSGIWorker2Core0:139738719074432] [django.request:135] [ERROR]- Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/utils/deprecation.py", line 138, in __call__
+    response = self.process_request(request)
+  File "/usr/lib64/python2.7/site-packages/django/middleware/common.py", line 62, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/lib64/python2.7/site-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/lib64/python2.7/site-packages/django/urls/base.py", line 158, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/lib64/python2.7/site-packages/django/urls/base.py", line 27, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 362, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/lib64/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/lib64/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib64/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "./skytest/urls.py", line 26, in <module>
+    url(r'^login/$', views.login),
+NameError: name 'views' is not defined
+2018-11-23 17:40:28,625 [uWSGIWorker2Core0:140374967089280] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:43:23,549 [uWSGIWorker4Core0:139798898788480] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:43:28,164 [uWSGIWorker2Core0:139798898788480] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:43:33,096 [uWSGIWorker4Core0:139798898788480] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:43:35,342 [uWSGIWorker4Core1:139798638778112] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:43:44,900 [uWSGIWorker3Core0:139798898788480] [django.request:135] [ERROR]- Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./blog/views.py", line 49, in login
+    auth_login(request, user)
+NameError: global name 'auth_login' is not defined
+2018-11-23 17:45:52,964 [uWSGIWorker3Core0:140679265024128] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:45:57,300 [uWSGIWorker4Core1:140679005013760] [django.request:135] [ERROR]- Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./blog/views.py", line 51, in login
+    u = User.objects.get(username=uu)
+NameError: global name 'User' is not defined
+2018-11-23 17:47:45,243 [uWSGIWorker3Core0:140018887272576] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:48:39,328 [uWSGIWorker4Core1:140018627262208] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:49:01,678 [uWSGIWorker4Core0:140018887272576] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:49:03,732 [uWSGIWorker2Core1:140018627262208] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:49:06,567 [uWSGIWorker1Core1:140018627262208] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:49:11,219 [uWSGIWorker3Core0:140018887272576] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:52:06,604 [uWSGIWorker3Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:52:19,632 [uWSGIWorker2Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:53:03,941 [uWSGIWorker1Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:53:14,496 [uWSGIWorker2Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:53:19,026 [uWSGIWorker1Core1:140545067366144] [django:32] [INFO]- 执行模块:hsps 
+2018-11-23 17:53:19,269 [uWSGIWorker3Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:56:31,374 [uWSGIWorker1Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:56:32,936 [uWSGIWorker1Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:57:01,484 [uWSGIWorker2Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:57:03,298 [uWSGIWorker3Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:57:37,576 [uWSGIWorker2Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:57:39,363 [uWSGIWorker1Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:58:03,161 [uWSGIWorker3Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:58:04,875 [uWSGIWorker1Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:58:53,697 [uWSGIWorker3Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:58:56,164 [uWSGIWorker1Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 17:59:16,101 [uWSGIWorker4Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:00:00,996 [uWSGIWorker2Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:00:28,654 [uWSGIWorker3Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:00:56,245 [uWSGIWorker3Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:01:30,484 [uWSGIWorker2Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:01:30,858 [uWSGIWorker3Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:01:52,073 [uWSGIWorker3Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:03:13,965 [uWSGIWorker3Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:03:30,541 [uWSGIWorker3Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:04:07,128 [uWSGIWorker4Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:04:50,374 [uWSGIWorker1Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:05:11,078 [uWSGIWorker1Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:05:22,906 [uWSGIWorker4Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:05:55,763 [uWSGIWorker1Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:06:17,481 [uWSGIWorker4Core1:140545067366144] [django:32] [INFO]- 执行模块:hsps 
+2018-11-23 18:06:17,827 [uWSGIWorker1Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:06:19,713 [uWSGIWorker1Core1:140545067366144] [django:41] [INFO]- 执行模块:hsps_images 
+2018-11-23 18:06:19,965 [uWSGIWorker2Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:06:23,324 [uWSGIWorker3Core1:140545067366144] [django:53] [INFO]- 执行模块:yy_stats 
+2018-11-23 18:06:23,564 [uWSGIWorker2Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:06:26,036 [uWSGIWorker1Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:06:55,313 [uWSGIWorker2Core1:140545067366144] [django:32] [INFO]- 执行模块:hsps 
+2018-11-23 18:06:55,546 [uWSGIWorker2Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:07:09,281 [uWSGIWorker4Core0:140545327376512] [django:41] [INFO]- 执行模块:hsps_images 
+2018-11-23 18:07:09,524 [uWSGIWorker3Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:07:32,645 [uWSGIWorker4Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:08:13,589 [uWSGIWorker4Core1:140545067366144] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 18:08:13,901 [uWSGIWorker4Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:08:18,196 [uWSGIWorker4Core1:140545067366144] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 18:08:18,424 [uWSGIWorker4Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:08:19,829 [uWSGIWorker4Core1:140545067366144] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 18:08:20,024 [uWSGIWorker1Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:08:21,593 [uWSGIWorker2Core1:140545067366144] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 18:08:21,980 [uWSGIWorker4Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:08:23,390 [uWSGIWorker4Core1:140545067366144] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 18:08:23,645 [uWSGIWorker1Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:08:25,591 [uWSGIWorker4Core0:140545327376512] [django:93] [INFO]- 执行函数名:drgs_log 
+2018-11-23 18:08:25,847 [uWSGIWorker2Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:08:29,151 [uWSGIWorker2Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:08:32,406 [uWSGIWorker1Core1:140545067366144] [django:64] [INFO]- 执行模块:db_stats 
+2018-11-23 18:08:32,618 [uWSGIWorker3Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:08:34,007 [uWSGIWorker2Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:08:52,248 [uWSGIWorker4Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:08:54,423 [uWSGIWorker3Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:08:57,632 [uWSGIWorker4Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:08:59,066 [uWSGIWorker3Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:10:11,084 [uWSGIWorker3Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:10:25,910 [uWSGIWorker2Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:10:27,257 [uWSGIWorker2Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-23 18:10:29,817 [uWSGIWorker1Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 09:25:46,676 [uWSGIWorker2Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 09:37:13,209 [uWSGIWorker1Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 09:37:30,959 [uWSGIWorker2Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /hs
+2018-11-26 09:37:31,051 [uWSGIWorker4Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 09:37:33,802 [uWSGIWorker3Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 09:37:36,136 [uWSGIWorker3Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 09:38:04,943 [uWSGIWorker2Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 09:38:10,617 [uWSGIWorker4Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 09:38:19,396 [uWSGIWorker1Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 09:43:18,853 [uWSGIWorker4Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 09:43:30,647 [uWSGIWorker3Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 09:43:33,047 [uWSGIWorker1Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 09:43:35,156 [uWSGIWorker4Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 09:43:37,378 [uWSGIWorker3Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 09:43:55,631 [uWSGIWorker2Core1:140545067366144] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 09:44:00,308 [uWSGIWorker1Core0:140545327376512] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 10:42:02,952 [uWSGIWorker3Core0:139842692520064] [django.request:152] [WARNING]- Not Found: /docker_ps
+2018-11-26 10:42:03,234 [uWSGIWorker4Core0:139842692520064] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 10:42:09,139 [uWSGIWorker1Core0:139842692520064] [django.request:152] [WARNING]- Not Found: /hs/
+2018-11-26 10:42:09,268 [uWSGIWorker3Core1:139842432509696] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 10:42:13,464 [uWSGIWorker4Core1:139842432509696] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 10:43:42,546 [uWSGIWorker3Core0:139842692520064] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 10:44:26,713 [uWSGIWorker4Core0:139842692520064] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 10:45:01,919 [uWSGIWorker2Core0:139842692520064] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 10:45:44,486 [uWSGIWorker4Core1:139842432509696] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 10:45:58,630 [uWSGIWorker2Core1:139842432509696] [django.request:135] [ERROR]- Internal Server Error: /hs/docker_restart
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib64/python2.7/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "./hs/views.py", line 73, in docker_restart
+    sun = obj.exc('root','docker restart %s'%parm)
+NameError: global name 'parm' is not defined
+2018-11-26 10:45:59,032 [uWSGIWorker4Core0:139842692520064] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:07:00,712 [uWSGIWorker4Core1:139842432509696] [django.request:135] [ERROR]- Internal Server Error: /hs/docker_restart
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib64/python2.7/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "./hs/views.py", line 73, in docker_restart
+    sun = obj.exc('root','docker restart %s'%AA)
+NameError: global name 'parm' is not defined
+2018-11-26 11:07:01,172 [uWSGIWorker3Core1:139842432509696] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:07:07,960 [uWSGIWorker1Core1:140526109869824] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:07:25,984 [uWSGIWorker3Core0:140526369880192] [django:76] [INFO]- 执行模块:docker_restart ,重启应用:[u'docker restart nginx\r', u'nginx\r']
+2018-11-26 11:07:25,985 [uWSGIWorker3Core0:140526369880192] [django.request:135] [ERROR]- Internal Server Error: /hs/docker_restart
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib64/python2.7/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "./hs/views.py", line 77, in docker_restart
+    return HttpResponse('Restart %s ok'%parm)
+NameError: global name 'parm' is not defined
+2018-11-26 11:07:26,496 [uWSGIWorker3Core1:140526109869824] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:11:09,071 [uWSGIWorker2Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:11:12,220 [uWSGIWorker1Core1:140060210480896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:11:21,401 [uWSGIWorker1Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /hs/
+2018-11-26 11:11:21,501 [uWSGIWorker3Core1:140060210480896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:19:53,995 [uWSGIWorker1Core1:140060210480896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:20:09,043 [uWSGIWorker1Core0:140060470491264] [django:32] [INFO]- 执行模块:hsps 
+2018-11-26 11:20:09,300 [uWSGIWorker1Core1:140060210480896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:20:25,024 [uWSGIWorker4Core0:140060470491264] [django:41] [INFO]- 执行模块:hsps_images 
+2018-11-26 11:20:25,251 [uWSGIWorker1Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:20:33,460 [uWSGIWorker1Core1:140060210480896] [django:53] [INFO]- 执行模块:yy_stats 
+2018-11-26 11:20:33,719 [uWSGIWorker3Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:21:04,703 [uWSGIWorker3Core1:140060210480896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:21:54,028 [uWSGIWorker2Core1:140060210480896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:22:07,902 [uWSGIWorker3Core0:140060470491264] [django:32] [INFO]- 执行模块:hsps 
+2018-11-26 11:22:08,119 [uWSGIWorker1Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:22:29,270 [uWSGIWorker2Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:24:20,116 [uWSGIWorker1Core1:140060210480896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:24:28,586 [uWSGIWorker1Core0:140060470491264] [django:108] [INFO]- 执行函数名:drgs_log 
+2018-11-26 11:24:28,782 [uWSGIWorker1Core1:140060210480896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:24:35,786 [uWSGIWorker4Core0:140060470491264] [django:108] [INFO]- 执行函数名:drgs_log 
+2018-11-26 11:24:36,039 [uWSGIWorker2Core1:140060210480896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:24:37,119 [uWSGIWorker4Core1:140060210480896] [django:108] [INFO]- 执行函数名:drgs_log 
+2018-11-26 11:24:37,422 [uWSGIWorker1Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:24:38,503 [uWSGIWorker1Core1:140060210480896] [django:108] [INFO]- 执行函数名:drgs_log 
+2018-11-26 11:24:38,700 [uWSGIWorker2Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:24:39,696 [uWSGIWorker2Core1:140060210480896] [django:108] [INFO]- 执行函数名:drgs_log 
+2018-11-26 11:24:39,967 [uWSGIWorker2Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:24:47,665 [uWSGIWorker3Core1:140060210480896] [django:108] [INFO]- 执行函数名:drgs_log 
+2018-11-26 11:24:47,884 [uWSGIWorker1Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:24:55,036 [uWSGIWorker3Core0:140060470491264] [django:108] [INFO]- 执行函数名:drgs_log 
+2018-11-26 11:24:55,339 [uWSGIWorker4Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:26:44,537 [uWSGIWorker3Core1:140060210480896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:26:51,025 [uWSGIWorker4Core1:140060210480896] [django:32] [INFO]- 执行模块:hsps 
+2018-11-26 11:26:51,234 [uWSGIWorker3Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:29:16,027 [uWSGIWorker3Core1:140060210480896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:35:20,328 [uWSGIWorker3Core1:140060210480896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:36:18,145 [uWSGIWorker4Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /docker_restart
+2018-11-26 11:36:18,243 [uWSGIWorker2Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:36:21,854 [uWSGIWorker4Core1:140060210480896] [django.request:152] [WARNING]- Not Found: /hs/
+2018-11-26 11:36:21,946 [uWSGIWorker2Core1:140060210480896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:36:26,739 [uWSGIWorker2Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /hs/restart
+2018-11-26 11:36:26,828 [uWSGIWorker1Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:36:33,320 [uWSGIWorker1Core1:140060210480896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:36:51,192 [uWSGIWorker4Core0:140060470491264] [django:76] [INFO]- 执行模块:docker_restart ,重启应用:[u'docker restart drgs\r', u'drgs\r']
+2018-11-26 11:36:51,279 [uWSGIWorker4Core1:140060210480896] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:37:39,136 [uWSGIWorker4Core0:140060470491264] [django:76] [INFO]- 执行模块:docker_restart ,重启应用:[u'docker restart etlloader\r', u'etlloader\r']
+2018-11-26 11:37:39,269 [uWSGIWorker3Core0:140060470491264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:40:23,172 [uWSGIWorker2Core1:140288675022592] [django:76] [INFO]- 执行模块:docker_restart ,重启应用:[u'docker restart etlloader\r', u'etlloader\r']
+2018-11-26 11:40:23,528 [uWSGIWorker4Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:40:30,250 [uWSGIWorker2Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:40:32,022 [uWSGIWorker3Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:40:33,125 [uWSGIWorker1Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:40:49,890 [uWSGIWorker1Core0:140288935032960] [django:76] [INFO]- 执行模块:docker_restart ,重启应用:[u'docker restart drgs\r', u'drgs\r']
+2018-11-26 11:40:50,018 [uWSGIWorker4Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:40:54,625 [uWSGIWorker3Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:42:08,322 [uWSGIWorker3Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:42:20,593 [uWSGIWorker3Core1:140288675022592] [django:53] [INFO]- 执行模块:yy_stats 
+2018-11-26 11:42:20,853 [uWSGIWorker2Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:42:48,662 [uWSGIWorker4Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:42:59,917 [uWSGIWorker3Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:47:03,727 [uWSGIWorker2Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:47:48,812 [uWSGIWorker1Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:48:02,417 [uWSGIWorker3Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:48:06,838 [uWSGIWorker1Core0:140288935032960] [django:64] [INFO]- 执行模块:db_stats 
+2018-11-26 11:48:49,772 [uWSGIWorker4Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:48:54,777 [uWSGIWorker1Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:49:39,901 [uWSGIWorker3Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:50:00,892 [uWSGIWorker1Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:50:40,816 [uWSGIWorker4Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:50:42,474 [uWSGIWorker2Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:50:43,995 [uWSGIWorker3Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:50:58,474 [uWSGIWorker2Core0:140288935032960] [django:76] [INFO]- 执行模块:docker_restart ,重启应用:[u'docker restart drgs\r', u'drgs\r']
+2018-11-26 11:50:58,577 [uWSGIWorker1Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:51:51,472 [uWSGIWorker1Core0:140288935032960] [django:53] [INFO]- 执行模块:yy_stats 
+2018-11-26 11:51:51,718 [uWSGIWorker4Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:51:55,879 [uWSGIWorker3Core0:140288935032960] [django:64] [INFO]- 执行模块:db_stats 
+2018-11-26 11:51:56,111 [uWSGIWorker3Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:52:09,276 [uWSGIWorker3Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:52:27,353 [uWSGIWorker3Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:53:13,454 [uWSGIWorker4Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:54:26,835 [uWSGIWorker2Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:54:41,807 [uWSGIWorker4Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:55:03,048 [uWSGIWorker2Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 11:56:33,104 [uWSGIWorker3Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:37:05,490 [uWSGIWorker3Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:37:32,152 [uWSGIWorker2Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:37:59,997 [uWSGIWorker1Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:38:10,682 [uWSGIWorker2Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:40:36,542 [uWSGIWorker4Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:40:59,126 [uWSGIWorker1Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:41:44,128 [uWSGIWorker3Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:52:45,944 [uWSGIWorker4Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:53:02,702 [uWSGIWorker2Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:53:13,698 [uWSGIWorker3Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:53:14,640 [uWSGIWorker3Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:53:21,915 [uWSGIWorker3Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:53:34,583 [uWSGIWorker3Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:53:51,044 [uWSGIWorker2Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:54:59,797 [uWSGIWorker4Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:55:16,800 [uWSGIWorker1Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:55:36,119 [uWSGIWorker3Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:56:13,336 [uWSGIWorker1Core1:140288675022592] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 18:56:34,234 [uWSGIWorker3Core0:140288935032960] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 19:01:57,631 [uWSGIWorker1Core0:139901260462208] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 19:01:58,459 [uWSGIWorker4Core0:139901260462208] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 19:02:02,669 [uWSGIWorker2Core0:139901260462208] [django:186] [INFO]- 执行函数名:dqdep_run 
+2018-11-26 19:02:02,899 [uWSGIWorker2Core1:139901000451840] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 19:03:43,744 [uWSGIWorker4Core0:139901260462208] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 19:04:18,801 [uWSGIWorker4Core1:139901000451840] [django:186] [INFO]- 执行函数名:dqdep_run 
+2018-11-26 19:04:18,990 [uWSGIWorker4Core0:139901260462208] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 19:05:16,314 [uWSGIWorker1Core0:139901260462208] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 19:07:40,643 [uWSGIWorker3Core0:139901260462208] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 19:08:07,553 [uWSGIWorker3Core1:139901000451840] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 19:08:38,718 [uWSGIWorker2Core0:139901260462208] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 19:09:00,504 [uWSGIWorker1Core1:139901000451840] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-26 19:09:18,502 [uWSGIWorker1Core1:139901000451840] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:34:35,667 [uWSGIWorker3Core0:139901260462208] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:36:00,123 [uWSGIWorker3Core1:139901000451840] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:36:01,095 [uWSGIWorker4Core0:139901260462208] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:36:23,844 [uWSGIWorker3Core1:139901000451840] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:36:31,720 [uWSGIWorker4Core0:139901260462208] [django.request:152] [WARNING]- Not Found: /hs/opms_index
+2018-11-27 14:36:31,815 [uWSGIWorker3Core0:139901260462208] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:36:44,364 [uWSGIWorker2Core0:139733422811264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:36:46,775 [uWSGIWorker3Core1:139733268875008] [django:32] [INFO]- 执行模块:hsps 
+2018-11-27 14:36:47,242 [uWSGIWorker1Core0:139733422811264] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:36:52,031 [uWSGIWorker4Core0:139733422811264] [django:41] [INFO]- 执行模块:hsps_images 
+2018-11-27 14:36:52,279 [uWSGIWorker2Core1:139733268875008] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:43:48,735 [uWSGIWorker3Core0:140009988876416] [django.request:152] [WARNING]- Not Found: /hs/
+2018-11-27 14:43:49,083 [uWSGIWorker2Core0:140009988876416] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:43:55,263 [uWSGIWorker1Core0:140009988876416] [django.request:135] [ERROR]- Internal Server Error: /hs/docker_psdrgs
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./hs/views.py", line 37, in docker_ps
+    sun = obj.exc('root','docker images |grep %s'%parm)
+  File "./blog/inits.py", line 18, in exc
+    return ssh1(self.host,self.port,self.user,'sudo su - %s'%quser,shell)
+  File "./blog/inits.py", line 50, in ssh1
+    ssh.connect(ip,port,user)
+  File "/usr/lib/python2.7/site-packages/paramiko/client.py", line 437, in connect
+    passphrase,
+  File "/usr/lib/python2.7/site-packages/paramiko/client.py", line 749, in _auth
+    raise saved_exception
+AuthenticationException: Authentication failed.
+2018-11-27 14:43:55,798 [uWSGIWorker3Core1:140009834940160] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:44:28,971 [uWSGIWorker4Core1:139752349017856] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:44:47,529 [uWSGIWorker3Core0:139752502954112] [django:56] [INFO]- 执行模块:hsps_images 
+2018-11-27 14:44:47,766 [uWSGIWorker3Core1:139752349017856] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:46:26,444 [uWSGIWorker2Core0:140525793441920] [django:56] [INFO]- 执行模块:hsps_images 
+2018-11-27 14:46:26,824 [uWSGIWorker3Core0:140525793441920] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:46:28,603 [uWSGIWorker3Core1:140525639505664] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:46:46,648 [uWSGIWorker3Core0:140525793441920] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:46:54,963 [uWSGIWorker4Core0:140525793441920] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:46:58,687 [uWSGIWorker2Core0:140525793441920] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:48:08,540 [uWSGIWorker4Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:48:17,230 [uWSGIWorker3Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:48:20,118 [uWSGIWorker4Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:49:16,872 [uWSGIWorker4Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /hs/
+2018-11-27 14:49:17,208 [uWSGIWorker2Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:49:19,158 [uWSGIWorker3Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:50:13,498 [uWSGIWorker1Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:50:15,018 [uWSGIWorker3Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:50:16,935 [uWSGIWorker3Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:50:21,150 [uWSGIWorker4Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:51:11,892 [uWSGIWorker1Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:51:28,698 [uWSGIWorker1Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:51:37,890 [uWSGIWorker4Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:51:39,891 [uWSGIWorker2Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:51:42,989 [uWSGIWorker1Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:51:46,252 [uWSGIWorker3Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:51:52,446 [uWSGIWorker1Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:52:06,811 [uWSGIWorker4Core1:139766449223424] [django:56] [INFO]- 执行模块:hsps_images 
+2018-11-27 14:52:07,053 [uWSGIWorker1Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:52:24,510 [uWSGIWorker3Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:52:29,941 [uWSGIWorker4Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:52:52,909 [uWSGIWorker1Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:52:54,900 [uWSGIWorker2Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:52:57,977 [uWSGIWorker4Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:53:07,713 [uWSGIWorker3Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:53:13,146 [uWSGIWorker3Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:53:19,503 [uWSGIWorker3Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:54:02,785 [uWSGIWorker2Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:54:07,051 [uWSGIWorker2Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:54:16,953 [uWSGIWorker4Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:54:21,151 [uWSGIWorker4Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:54:39,460 [uWSGIWorker3Core0:139766603159680] [django:247] [INFO]- 执行函数名:dqdep_run 
+2018-11-27 14:54:39,649 [uWSGIWorker3Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:54:59,338 [uWSGIWorker4Core1:139766449223424] [django:247] [INFO]- 执行函数名:dqdep_run 
+2018-11-27 14:54:59,517 [uWSGIWorker1Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:56:32,099 [uWSGIWorker1Core1:139766449223424] [django:247] [INFO]- 执行函数名:dqdep_run 
+2018-11-27 14:56:32,253 [uWSGIWorker1Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:56:59,325 [uWSGIWorker1Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:57:31,753 [uWSGIWorker1Core0:139766603159680] [django.request:152] [WARNING]- Not Found: /nginx-logo.png
+2018-11-27 14:57:31,817 [uWSGIWorker3Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /poweredby.png
+2018-11-27 14:57:31,856 [uWSGIWorker1Core1:139766449223424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:58:10,935 [uWSGIWorker1Core0:140054734026880] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:58:43,208 [uWSGIWorker1Core1:140054580090624] [django.request:152] [WARNING]- Not Found: /nginx-logo.png
+2018-11-27 14:58:43,213 [uWSGIWorker1Core0:140054734026880] [django.request:152] [WARNING]- Not Found: /poweredby.png
+2018-11-27 14:58:43,514 [uWSGIWorker2Core0:140054734026880] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:58:43,768 [uWSGIWorker4Core0:140054734026880] [django.request:135] [ERROR]- Internal Server Error: /hs/opms_log
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib64/python2.7/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "./hs/views.py", line 218, in opms_log
+    sun = obj.exc('root', 'tail -f /var/log/opms/logback.log')
+  File "./blog/inits.py", line 18, in exc
+    return ssh1(self.host,self.port,self.user,'sudo su - %s'%quser,shell)
+  File "./blog/inits.py", line 61, in ssh1
+    resp = channel.recv(9999)
+  File "/usr/lib/python2.7/site-packages/paramiko/channel.py", line 701, in recv
+    raise socket.timeout()
+timeout
+2018-11-27 14:58:48,537 [uWSGIWorker4Core0:140651302692992] [django:221] [INFO]- 执行函数名:opms_log 
+2018-11-27 14:58:48,995 [uWSGIWorker2Core0:140651302692992] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:58:54,779 [uWSGIWorker2Core1:140651148756736] [django:221] [INFO]- 执行函数名:opms_log 
+2018-11-27 14:58:54,981 [uWSGIWorker4Core1:140651148756736] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 14:59:10,774 [uWSGIWorker3Core0:140651302692992] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 15:00:01,351 [uWSGIWorker4Core0:140651302692992] [django:68] [INFO]- 执行模块:yy_stats 
+2018-11-27 15:00:01,585 [uWSGIWorker4Core1:140651148756736] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 15:01:04,943 [uWSGIWorker1Core0:140651302692992] [django:32] [INFO]- 执行模块:hsps 
+2018-11-27 15:01:05,161 [uWSGIWorker4Core0:140651302692992] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 15:01:07,905 [uWSGIWorker3Core0:140651302692992] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-27 15:01:23,457 [uWSGIWorker3Core1:140651148756736] [django:91] [INFO]- 执行模块:docker_restart ,重启应用:[u'docker restart redis\r', u'redis\r']
+2018-11-27 15:01:23,533 [uWSGIWorker4Core1:140651148756736] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 11:54:36,147 [uWSGIWorker1Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 11:54:45,296 [uWSGIWorker4Core1:140242632845056] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 11:54:48,673 [uWSGIWorker4Core0:140242892855424] [django.request:135] [ERROR]- Internal Server Error: /hs/message_index
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib64/python2.7/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "./hs/views.py", line 242, in message_index
+    return render_to_response('message_index.html',{'ss':ss})
+  File "/usr/lib64/python2.7/site-packages/django/shortcuts.py", line 21, in render_to_response
+    content = loader.render_to_string(template_name, context, using=using)
+  File "/usr/lib64/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/usr/lib64/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: message_index.html
+2018-11-29 11:54:49,247 [uWSGIWorker3Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 11:55:51,640 [uWSGIWorker3Core1:140242632845056] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 11:55:53,339 [uWSGIWorker3Core0:140242892855424] [django.request:135] [ERROR]- Internal Server Error: /hs/docker_images-message
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./hs/views.py", line 44, in docker_images
+    sun = obj.exc('root','docker images |grep %s --color=no'%parm)
+  File "./blog/inits.py", line 18, in exc
+    return ssh1(self.host,self.port,self.user,'sudo su - %s'%quser,shell)
+  File "./blog/inits.py", line 50, in ssh1
+    ssh.connect(ip,port,user)
+  File "/usr/lib/python2.7/site-packages/paramiko/client.py", line 362, in connect
+    raise NoValidConnectionsError(errors)
+NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 222.222.222.222
+2018-11-29 11:55:53,683 [uWSGIWorker1Core1:140242632845056] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 12:06:18,326 [uWSGIWorker4Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 12:06:24,072 [uWSGIWorker4Core1:140242632845056] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 12:06:25,179 [uWSGIWorker2Core1:140242632845056] [django.request:135] [ERROR]- Internal Server Error: /hs/docker_images-message
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./hs/views.py", line 44, in docker_images
+    sun = obj.exc('root','docker images |grep %s --color=no'%parm)
+  File "./blog/inits.py", line 18, in exc
+    return ssh1(self.host,self.port,self.user,'sudo su - %s'%quser,shell)
+  File "./blog/inits.py", line 50, in ssh1
+    ssh.connect(ip,port,user)
+  File "/usr/lib/python2.7/site-packages/paramiko/client.py", line 362, in connect
+    raise NoValidConnectionsError(errors)
+NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 222.222.222.222
+2018-11-29 12:06:25,641 [uWSGIWorker1Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 14:08:14,401 [uWSGIWorker1Core1:140242632845056] [django.request:135] [ERROR]- Internal Server Error: /hs/message_log
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib64/python2.7/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "./hs/views.py", line 247, in message_log
+    sun = obj.exc('root', 'tail -n 200 /var/log/message/logback.log')
+  File "./blog/inits.py", line 18, in exc
+    return ssh1(self.host,self.port,self.user,'sudo su - %s'%quser,shell)
+  File "./blog/inits.py", line 50, in ssh1
+    ssh.connect(ip,port,user)
+  File "/usr/lib/python2.7/site-packages/paramiko/client.py", line 362, in connect
+    raise NoValidConnectionsError(errors)
+NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 222.222.222.222
+2018-11-29 14:08:14,876 [uWSGIWorker4Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 14:08:18,253 [uWSGIWorker3Core1:140242632845056] [django.request:135] [ERROR]- Internal Server Error: /hs/message_log
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib64/python2.7/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "./hs/views.py", line 247, in message_log
+    sun = obj.exc('root', 'tail -n 200 /var/log/message/logback.log')
+  File "./blog/inits.py", line 18, in exc
+    return ssh1(self.host,self.port,self.user,'sudo su - %s'%quser,shell)
+  File "./blog/inits.py", line 50, in ssh1
+    ssh.connect(ip,port,user)
+  File "/usr/lib/python2.7/site-packages/paramiko/client.py", line 362, in connect
+    raise NoValidConnectionsError(errors)
+NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 222.222.222.222
+2018-11-29 14:08:18,493 [uWSGIWorker4Core1:140242632845056] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:48:30,180 [uWSGIWorker2Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:48:32,260 [uWSGIWorker2Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:49:08,045 [uWSGIWorker4Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:49:40,160 [uWSGIWorker3Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:50:20,183 [uWSGIWorker4Core1:140242632845056] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:50:37,374 [uWSGIWorker1Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:50:55,534 [uWSGIWorker4Core1:140242632845056] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:51:05,286 [uWSGIWorker2Core1:140242632845056] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:51:14,754 [uWSGIWorker3Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:51:30,538 [uWSGIWorker1Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:51:40,015 [uWSGIWorker2Core1:140242632845056] [django.request:135] [ERROR]- Internal Server Error: /hs/drgs_log
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib64/python2.7/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "./hs/views.py", line 120, in drgs_log
+    ss = ss[:-1]
+  File "./blog/inits.py", line 18, in exc
+    return ssh1(self.host,self.port,self.user,'sudo su - %s'%quser,shell)
+  File "./blog/inits.py", line 50, in ssh1
+    ssh.connect(ip,port,user)
+  File "/usr/lib/python2.7/site-packages/paramiko/client.py", line 362, in connect
+    raise NoValidConnectionsError(errors)
+NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 222.222.222.222
+2018-11-29 15:51:40,245 [uWSGIWorker2Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:52:55,419 [uWSGIWorker1Core1:140242632845056] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:52:57,825 [uWSGIWorker1Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:53:16,413 [uWSGIWorker2Core1:140242632845056] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:55:57,476 [uWSGIWorker2Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:58:12,753 [uWSGIWorker4Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 15:59:54,001 [uWSGIWorker3Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 16:00:36,381 [uWSGIWorker1Core1:140242632845056] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 16:00:51,938 [uWSGIWorker2Core1:140242632845056] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 16:01:33,057 [uWSGIWorker4Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 16:02:51,983 [uWSGIWorker4Core1:140242632845056] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 16:02:59,885 [uWSGIWorker4Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 16:03:16,511 [uWSGIWorker2Core0:140242892855424] [django.request:135] [ERROR]- Internal Server Error: /hs/yy_stats
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib64/python2.7/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "./hs/views.py", line 63, in yy_stats
+    aa = obj.exc('root','df -h')
+  File "./blog/inits.py", line 18, in exc
+    return ssh1(self.host,self.port,self.user,'sudo su - %s'%quser,shell)
+  File "./blog/inits.py", line 50, in ssh1
+    ssh.connect(ip,port,user)
+  File "/usr/lib/python2.7/site-packages/paramiko/client.py", line 362, in connect
+    raise NoValidConnectionsError(errors)
+NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 222.222.222.222
+2018-11-29 16:03:16,841 [uWSGIWorker2Core1:140242632845056] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 16:13:49,809 [uWSGIWorker2Core1:140242632845056] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 16:13:51,975 [uWSGIWorker1Core1:140242632845056] [django.request:135] [ERROR]- Internal Server Error: /hs/docker_images-hdc-manager
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./hs/views.py", line 44, in docker_images
+    sun = obj.exc('root','docker images |grep %s --color=no'%parm)
+  File "./blog/inits.py", line 18, in exc
+    return ssh1(self.host,self.port,self.user,'sudo su - %s'%quser,shell)
+  File "./blog/inits.py", line 50, in ssh1
+    ssh.connect(ip,port,user)
+  File "/usr/lib/python2.7/site-packages/paramiko/client.py", line 362, in connect
+    raise NoValidConnectionsError(errors)
+NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 222.222.222.222
+2018-11-29 16:13:52,323 [uWSGIWorker1Core0:140242892855424] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 16:25:27,188 [uWSGIWorker4Core0:139690012706944] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 16:25:29,971 [uWSGIWorker4Core0:139690012706944] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 16:25:44,171 [uWSGIWorker4Core0:139690012706944] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-29 16:26:01,702 [uWSGIWorker3Core1:139689752696576] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-11-30 17:09:13,625 [uWSGIWorker4Core1:139689752696576] [django.request:152] [WARNING]- Not Found: /api
+2018-12-03 10:02:03,320 [uWSGIWorker1Core1:139689752696576] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-03 10:06:47,129 [uWSGIWorker2Core0:139690012706944] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-03 10:06:53,658 [uWSGIWorker2Core0:139690012706944] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-03 10:09:23,845 [uWSGIWorker2Core1:139689752696576] [django.request:135] [ERROR]- Internal Server Error: /hs/dqdep_run
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib64/python2.7/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "./hs/views.py", line 264, in dqdep_run
+    sun = obj.exc('root', '/opt/shell/dep.py')
+  File "./blog/inits.py", line 18, in exc
+    return ssh1(self.host,self.port,self.user,'sudo su - %s'%quser,shell)
+  File "./blog/inits.py", line 50, in ssh1
+    ssh.connect(ip,port,user)
+  File "/usr/lib/python2.7/site-packages/paramiko/client.py", line 362, in connect
+    raise NoValidConnectionsError(errors)
+NoValidConnectionsError: [Errno None] Unable to connect to port 22 on 222.222.222.222
+2018-12-03 10:09:24,405 [uWSGIWorker4Core0:139690012706944] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-03 10:10:42,894 [uWSGIWorker3Core0:139690012706944] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-04 11:57:43,325 [uWSGIWorker3Core1:139689752696576] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-04 11:58:58,795 [uWSGIWorker3Core1:139689752696576] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-04 11:59:01,050 [uWSGIWorker2Core0:139690012706944] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-04 11:59:58,485 [uWSGIWorker2Core1:139689752696576] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-04 12:00:10,050 [uWSGIWorker1Core1:139689752696576] [django:32] [INFO]- 执行模块:hsps 
+2018-12-04 12:00:10,267 [uWSGIWorker4Core0:139690012706944] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:32:19,565 [uWSGIWorker2Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:32:38,989 [uWSGIWorker1Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:34:58,956 [uWSGIWorker2Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:35:01,376 [uWSGIWorker3Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:35:04,681 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:35:10,749 [uWSGIWorker3Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:35:27,600 [uWSGIWorker1Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:35:31,655 [uWSGIWorker3Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:38:27,402 [uWSGIWorker3Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:38:31,268 [uWSGIWorker1Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:38:40,229 [uWSGIWorker4Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:38:57,012 [uWSGIWorker3Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:39:01,811 [uWSGIWorker3Core0:140473920239744] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 11:39:02,010 [uWSGIWorker3Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:39:04,870 [uWSGIWorker1Core1:140473660229376] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 11:39:05,097 [uWSGIWorker3Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:39:06,220 [uWSGIWorker2Core0:140473920239744] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 11:39:06,479 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:39:07,828 [uWSGIWorker2Core1:140473660229376] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 11:39:08,774 [uWSGIWorker3Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:39:28,246 [uWSGIWorker4Core0:140473920239744] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 11:39:28,473 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:39:30,279 [uWSGIWorker4Core0:140473920239744] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 11:39:30,560 [uWSGIWorker3Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:39:32,464 [uWSGIWorker4Core1:140473660229376] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 11:39:32,763 [uWSGIWorker2Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:39:34,434 [uWSGIWorker1Core0:140473920239744] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 11:39:34,665 [uWSGIWorker4Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:39:35,887 [uWSGIWorker4Core1:140473660229376] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 11:39:36,092 [uWSGIWorker3Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:39:39,495 [uWSGIWorker1Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:42:31,065 [uWSGIWorker4Core0:140473920239744] [django:267] [INFO]- 执行函数名:dqdep_run 
+2018-12-07 11:42:31,258 [uWSGIWorker1Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:42:55,421 [uWSGIWorker4Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:42:57,747 [uWSGIWorker1Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:43:02,670 [uWSGIWorker4Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:43:05,723 [uWSGIWorker2Core0:140473920239744] [django:130] [INFO]- 执行函数名:drgs_log 
+2018-12-07 11:43:05,933 [uWSGIWorker1Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:43:08,883 [uWSGIWorker2Core1:140473660229376] [django:130] [INFO]- 执行函数名:drgs_log 
+2018-12-07 11:43:09,113 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 11:43:10,341 [uWSGIWorker1Core0:140473920239744] [django:130] [INFO]- 执行函数名:drgs_log 
+2018-12-07 11:43:10,519 [uWSGIWorker4Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:01:15,165 [uWSGIWorker1Core1:140473660229376] [django:130] [INFO]- 执行函数名:drgs_log 
+2018-12-07 12:01:15,406 [uWSGIWorker2Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:01:17,448 [uWSGIWorker3Core0:140473920239744] [django:130] [INFO]- 执行函数名:drgs_log 
+2018-12-07 12:01:17,639 [uWSGIWorker3Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:01:24,900 [uWSGIWorker2Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:01:29,833 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:01:33,656 [uWSGIWorker1Core0:140473920239744] [django:160] [INFO]- 执行函数名:hdc_log 
+2018-12-07 12:01:33,905 [uWSGIWorker1Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:01:36,390 [uWSGIWorker4Core0:140473920239744] [django:160] [INFO]- 执行函数名:hdc_log 
+2018-12-07 12:01:36,620 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:01:38,324 [uWSGIWorker3Core0:140473920239744] [django:160] [INFO]- 执行函数名:hdc_log 
+2018-12-07 12:01:38,829 [uWSGIWorker4Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:01:40,042 [uWSGIWorker3Core1:140473660229376] [django:160] [INFO]- 执行函数名:hdc_log 
+2018-12-07 12:01:40,283 [uWSGIWorker2Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:01:41,346 [uWSGIWorker1Core0:140473920239744] [django:160] [INFO]- 执行函数名:hdc_log 
+2018-12-07 12:01:41,677 [uWSGIWorker2Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:01:42,833 [uWSGIWorker2Core0:140473920239744] [django:160] [INFO]- 执行函数名:hdc_log 
+2018-12-07 12:01:43,042 [uWSGIWorker2Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:01:44,034 [uWSGIWorker3Core0:140473920239744] [django:160] [INFO]- 执行函数名:hdc_log 
+2018-12-07 12:01:44,332 [uWSGIWorker2Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:01:45,563 [uWSGIWorker1Core1:140473660229376] [django:160] [INFO]- 执行函数名:hdc_log 
+2018-12-07 12:01:45,789 [uWSGIWorker1Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:01:47,277 [uWSGIWorker4Core1:140473660229376] [django:160] [INFO]- 执行函数名:hdc_log 
+2018-12-07 12:01:47,540 [uWSGIWorker4Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:01:49,454 [uWSGIWorker3Core1:140473660229376] [django:160] [INFO]- 执行函数名:hdc_log 
+2018-12-07 12:01:49,656 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:02:18,784 [uWSGIWorker4Core0:140473920239744] [django:160] [INFO]- 执行函数名:hdc_log 
+2018-12-07 12:02:19,011 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:02:22,291 [uWSGIWorker3Core0:140473920239744] [django:160] [INFO]- 执行函数名:hdc_log 
+2018-12-07 12:02:22,605 [uWSGIWorker3Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:02:27,656 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:02:45,957 [uWSGIWorker1Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:02:52,325 [uWSGIWorker2Core1:140473660229376] [django:228] [INFO]- 执行函数名:opms_log 
+2018-12-07 12:02:52,655 [uWSGIWorker3Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:02:56,548 [uWSGIWorker2Core0:140473920239744] [django:228] [INFO]- 执行函数名:opms_log 
+2018-12-07 12:02:56,825 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:02:58,264 [uWSGIWorker4Core0:140473920239744] [django:228] [INFO]- 执行函数名:opms_log 
+2018-12-07 12:02:58,458 [uWSGIWorker3Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:02:59,509 [uWSGIWorker2Core1:140473660229376] [django:228] [INFO]- 执行函数名:opms_log 
+2018-12-07 12:02:59,691 [uWSGIWorker2Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 12:03:01,987 [uWSGIWorker4Core1:140473660229376] [django:228] [INFO]- 执行函数名:opms_log 
+2018-12-07 12:03:02,364 [uWSGIWorker4Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:47:40,346 [uWSGIWorker3Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:47:46,661 [uWSGIWorker3Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:47:50,289 [uWSGIWorker4Core0:140473920239744] [django:228] [INFO]- 执行函数名:opms_log 
+2018-12-07 13:47:50,509 [uWSGIWorker2Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:47:53,305 [uWSGIWorker3Core0:140473920239744] [django:228] [INFO]- 执行函数名:opms_log 
+2018-12-07 13:47:54,015 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:47:54,958 [uWSGIWorker4Core0:140473920239744] [django:228] [INFO]- 执行函数名:opms_log 
+2018-12-07 13:47:55,156 [uWSGIWorker3Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:47:55,827 [uWSGIWorker4Core1:140473660229376] [django:228] [INFO]- 执行函数名:opms_log 
+2018-12-07 13:47:56,063 [uWSGIWorker1Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:47:57,409 [uWSGIWorker4Core0:140473920239744] [django:228] [INFO]- 执行函数名:opms_log 
+2018-12-07 13:47:57,608 [uWSGIWorker3Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:47:59,210 [uWSGIWorker2Core0:140473920239744] [django:228] [INFO]- 执行函数名:opms_log 
+2018-12-07 13:47:59,455 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:48:06,223 [uWSGIWorker3Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:48:13,034 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:48:16,635 [uWSGIWorker3Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:48:48,969 [uWSGIWorker2Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:49:09,348 [uWSGIWorker4Core1:140473660229376] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 13:49:09,666 [uWSGIWorker1Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:49:13,158 [uWSGIWorker2Core0:140473920239744] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 13:49:13,392 [uWSGIWorker3Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:49:14,507 [uWSGIWorker4Core0:140473920239744] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 13:49:15,130 [uWSGIWorker1Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:49:16,766 [uWSGIWorker1Core0:140473920239744] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 13:49:16,986 [uWSGIWorker3Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:49:29,699 [uWSGIWorker2Core1:140473660229376] [django:267] [INFO]- 执行函数名:dqdep_run 
+2018-12-07 13:49:29,893 [uWSGIWorker1Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:49:36,893 [uWSGIWorker3Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:49:38,468 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:49:41,960 [uWSGIWorker2Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:49:46,189 [uWSGIWorker1Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:50:04,059 [uWSGIWorker3Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:50:09,508 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:50:14,076 [uWSGIWorker2Core1:140473660229376] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 13:50:14,298 [uWSGIWorker4Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:50:17,230 [uWSGIWorker1Core0:140473920239744] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 13:50:17,515 [uWSGIWorker3Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:50:19,259 [uWSGIWorker1Core1:140473660229376] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 13:50:19,553 [uWSGIWorker2Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:50:21,960 [uWSGIWorker2Core1:140473660229376] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 13:50:22,418 [uWSGIWorker1Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:50:24,293 [uWSGIWorker1Core1:140473660229376] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 13:50:24,482 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:50:27,956 [uWSGIWorker3Core1:140473660229376] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 13:50:28,149 [uWSGIWorker2Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:50:29,689 [uWSGIWorker2Core1:140473660229376] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 13:50:29,905 [uWSGIWorker4Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:50:31,342 [uWSGIWorker1Core0:140473920239744] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 13:50:31,557 [uWSGIWorker3Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:50:32,957 [uWSGIWorker3Core1:140473660229376] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 13:50:33,184 [uWSGIWorker4Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:50:34,715 [uWSGIWorker1Core1:140473660229376] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 13:50:34,960 [uWSGIWorker4Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:50:36,926 [uWSGIWorker4Core1:140473660229376] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 13:50:37,157 [uWSGIWorker1Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:50:38,183 [uWSGIWorker2Core0:140473920239744] [django:299] [INFO]- 执行函数名:ida_log 
+2018-12-07 13:50:38,367 [uWSGIWorker1Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-07 13:50:49,455 [uWSGIWorker2Core1:140473660229376] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-19 15:19:33,022 [uWSGIWorker4Core0:140473920239744] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2018-12-19 15:27:37,823 [uWSGIWorker2Core0:140473920239744] [django:79] [INFO]- 执行模块:db_stats 
+2018-12-19 15:30:08,032 [uWSGIWorker4Core0:140124799309952] [django:267] [INFO]- 执行函数名:dqdep_run 
+2018-12-19 15:32:34,884 [uWSGIWorker3Core0:140124799309952] [django:267] [INFO]- 执行函数名:dqdep_run 
+2018-12-19 15:39:35,052 [uWSGIWorker3Core0:139687153502336] [django:328] [INFO]- 执行函数名:sil_log 
+2018-12-19 15:39:47,210 [uWSGIWorker3Core1:139686893491968] [django:328] [INFO]- 执行函数名:sil_log 
+2018-12-19 15:39:51,850 [uWSGIWorker1Core0:139687153502336] [django:328] [INFO]- 执行函数名:sil_log 
+2018-12-19 15:39:53,403 [uWSGIWorker2Core0:139687153502336] [django:328] [INFO]- 执行函数名:sil_log 
+2018-12-26 14:04:45,359 [uWSGIWorker2Core1:139686893491968] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2019-01-12 15:53:18,122 [uWSGIWorker2Core0:139687153502336] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2019-01-13 10:14:52,846 [uWSGIWorker1Core0:140129866918016] [django:267] [INFO]- 执行函数名:dqdep_run 
+2019-01-13 10:17:50,801 [uWSGIWorker4Core0:140129866918016] [django:267] [INFO]- 执行函数名:dqdep_run 
+2019-01-13 10:23:14,711 [uWSGIWorker2Core0:140417681164416] [django:359] [INFO]- 执行函数名:dsu_log 
+2019-01-13 10:23:17,510 [uWSGIWorker2Core1:140417421154048] [django:359] [INFO]- 执行函数名:dsu_log 
+2019-01-13 10:23:19,159 [uWSGIWorker3Core1:140417421154048] [django:359] [INFO]- 执行函数名:dsu_log 
+2019-01-13 10:23:27,501 [uWSGIWorker4Core0:140417681164416] [django:68] [INFO]- 执行模块:yy_stats 
+2019-01-13 10:23:32,522 [uWSGIWorker2Core0:140417681164416] [django:79] [INFO]- 执行模块:db_stats 
+2019-01-13 10:23:38,427 [uWSGIWorker1Core0:140417681164416] [django:359] [INFO]- 执行函数名:dsu_log 
+2019-01-13 10:23:40,819 [uWSGIWorker4Core1:140417421154048] [django:359] [INFO]- 执行函数名:dsu_log 
+2019-01-13 10:23:42,211 [uWSGIWorker4Core0:140417681164416] [django:359] [INFO]- 执行函数名:dsu_log 
+2019-01-13 10:23:43,214 [uWSGIWorker2Core0:140417681164416] [django:359] [INFO]- 执行函数名:dsu_log 
+2019-01-13 10:23:44,313 [uWSGIWorker2Core1:140417421154048] [django:359] [INFO]- 执行函数名:dsu_log 
+2019-01-28 11:21:53,786 [uWSGIWorker2Core1:140417421154048] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2019-01-28 15:46:18,240 [uWSGIWorker4Core0:140417681164416] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2019-01-28 16:52:51,929 [uWSGIWorker4Core1:140000836486912] [django:267] [INFO]- 执行函数名:dqdep_run 
+2019-01-28 16:53:10,897 [uWSGIWorker1Core0:140001096497280] [django.request:135] [ERROR]- Internal Server Error: /hs/skydata_index
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib64/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib64/python2.7/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "./hs/views.py", line 377, in skydata_index
+    %s" % (DB_IP,YY_IP,AA)
+TypeError: not all arguments converted during string formatting
+2019-01-28 16:56:18,944 [uWSGIWorker1Core0:140077064345728] [django:391] [INFO]- 执行函数名:skydata_log 
+2019-01-28 16:56:22,086 [uWSGIWorker1Core1:140076804335360] [django:391] [INFO]- 执行函数名:skydata_log 
+2019-01-28 16:56:23,929 [uWSGIWorker2Core0:140077064345728] [django:391] [INFO]- 执行函数名:skydata_log 
+2019-01-28 16:57:10,744 [uWSGIWorker2Core1:140076804335360] [django:391] [INFO]- 执行函数名:skydata_log 
+2019-01-28 16:57:13,992 [uWSGIWorker4Core0:140077064345728] [django:391] [INFO]- 执行函数名:skydata_log 
+2019-01-28 16:57:15,961 [uWSGIWorker1Core0:140077064345728] [django:391] [INFO]- 执行函数名:skydata_log 
+2019-01-28 16:57:18,149 [uWSGIWorker2Core0:140077064345728] [django:391] [INFO]- 执行函数名:skydata_log 
+2019-01-28 16:57:21,591 [uWSGIWorker1Core1:140076804335360] [django:391] [INFO]- 执行函数名:skydata_log 
+2019-01-28 16:57:23,211 [uWSGIWorker1Core0:140077064345728] [django:391] [INFO]- 执行函数名:skydata_log 
+2019-01-28 16:57:35,211 [uWSGIWorker1Core1:140076804335360] [django:391] [INFO]- 执行函数名:skydata_log 
+2019-01-28 17:02:52,488 [uWSGIWorker2Core0:140077064345728] [django:360] [INFO]- 执行函数名:dsu_log 
+2019-01-28 17:02:55,070 [uWSGIWorker1Core0:140077064345728] [django:360] [INFO]- 执行函数名:dsu_log 
+2019-01-28 17:02:56,286 [uWSGIWorker1Core1:140076804335360] [django:360] [INFO]- 执行函数名:dsu_log 
+2019-01-30 11:15:42,493 [uWSGIWorker1Core0:140077064345728] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2019-01-30 11:17:07,720 [uWSGIWorker1Core0:140077064345728] [django:130] [INFO]- 执行函数名:drgs_log 
+2019-01-30 11:17:36,033 [uWSGIWorker2Core0:140077064345728] [django:267] [INFO]- 执行函数名:dqdep_run 
+2019-01-30 11:17:47,413 [uWSGIWorker2Core1:140076804335360] [django:267] [INFO]- 执行函数名:dqdep_run 
+2019-01-30 11:18:43,637 [uWSGIWorker1Core0:140077064345728] [django:130] [INFO]- 执行函数名:drgs_log 
+2019-01-30 11:21:23,262 [uWSGIWorker2Core1:140076804335360] [django:32] [INFO]- 执行模块:hsps 
+2019-01-30 11:21:36,178 [uWSGIWorker1Core1:140076804335360] [django:79] [INFO]- 执行模块:db_stats 
+2019-01-30 11:30:05,480 [uWSGIWorker1Core1:140076804335360] [django:79] [INFO]- 执行模块:db_stats 
+2019-01-30 11:30:07,849 [uWSGIWorker4Core1:140076804335360] [django:68] [INFO]- 执行模块:yy_stats 
+2019-01-30 11:43:12,615 [uWSGIWorker1Core1:140076804335360] [django:68] [INFO]- 执行模块:yy_stats 
+2019-01-30 11:49:23,177 [uWSGIWorker1Core0:140077064345728] [django:68] [INFO]- 执行模块:yy_stats 
+2019-01-30 14:26:33,625 [uWSGIWorker2Core0:140077064345728] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2019-01-30 17:08:09,398 [uWSGIWorker1Core0:140077064345728] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2019-01-30 17:08:13,160 [uWSGIWorker1Core1:140076804335360] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:08:13,167 [uWSGIWorker2Core1:140076804335360] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:08:22,860 [uWSGIWorker1Core1:140076804335360] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:08:22,871 [uWSGIWorker4Core1:140076804335360] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:08:34,847 [uWSGIWorker3Core1:140076804335360] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:08:34,852 [uWSGIWorker3Core0:140077064345728] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:08:36,649 [uWSGIWorker4Core0:140077064345728] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:08:36,652 [uWSGIWorker2Core0:140077064345728] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:39:38,294 [uWSGIWorker1Core0:140077064345728] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:39:38,295 [uWSGIWorker2Core1:140076804335360] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:39:41,298 [uWSGIWorker1Core1:140076804335360] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:39:41,304 [uWSGIWorker3Core1:140076804335360] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:39:47,115 [uWSGIWorker4Core1:140076804335360] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:39:47,124 [uWSGIWorker4Core0:140077064345728] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:39:48,192 [uWSGIWorker3Core0:140077064345728] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:39:48,203 [uWSGIWorker3Core1:140076804335360] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:39:50,827 [uWSGIWorker1Core0:140077064345728] [django.request:152] [WARNING]- Not Found: /404.html
+2019-01-30 17:39:50,830 [uWSGIWorker2Core1:140076804335360] [django.request:152] [WARNING]- Not Found: /404.html
+2019-02-12 14:12:52,238 [uWSGIWorker3Core1:140076804335360] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2019-02-26 10:33:10,036 [uWSGIWorker3Core1:140076804335360] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2019-03-05 16:17:42,874 [uWSGIWorker3Core0:140077064345728] [django.request:152] [WARNING]- Not Found: /favicon.ico
+2019-03-05 16:17:57,300 [uWSGIWorker2Core0:140077064345728] [django:68] [INFO]- 执行模块:yy_stats 
+2019-03-05 16:18:00,447 [uWSGIWorker3Core0:140077064345728] [django:79] [INFO]- 执行模块:db_stats 
+2019-03-05 16:18:18,218 [uWSGIWorker2Core1:140076804335360] [django:79] [INFO]- 执行模块:db_stats 
+2019-03-05 16:18:23,473 [uWSGIWorker3Core1:140076804335360] [django:68] [INFO]- 执行模块:yy_stats 
+2019-03-05 16:19:56,917 [uWSGIWorker1Core0:140077064345728] [django:56] [INFO]- 执行模块:hsps_images 

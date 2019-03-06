@@ -1,0 +1,62 @@
+{% extends "base-dep.html" %}
+{% block NR %} 
+
+
+
+    <h1  class="text-center STYLE5">火树docker服务重启页面</h1>
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-10">
+<p><span class="STYLE2"a>请选择需要重启的服务.</span> </p>
+<form method="post" id="myForm" target="_blank" onsubmit="toSubmit1()">
+<div>
+   <label for="gshy" class="STYLE4">选择服务名	：</label>
+<br \>  
+     <select name="a1" id="a1">
+       {% for i in QQ %}
+          <option>{{i}}</option>
+       {% endfor%}
+    </select>
+
+
+<input class="btn btn-primary anniu" type="button" value="提交重启"   onclick="toSubmit()">
+</form>
+
+    <div class="col-md-1"></div>
+</div>
+
+<div class="row">
+  <div class="col-md-1"></div>
+  <div class="col-md-10"><br>     </div>
+  <div class="col-md-1"></div>
+</div>
+
+<div class="row">
+  <div class="col-md-1"></div>
+  <div class="col-md-10">
+
+  </div>
+  <div class="col-md-1"></div>
+</div>
+
+
+
+<script type="text/javascript">
+(function() {
+        var btn = $(".btn");
+        btn.on("click", function(e) {
+        var thisBtn = $(this);
+        thisBtn.addClass("btn-success").data("stat", "true");
+        });
+        })()
+function toSubmit(){
+    document.getElementById('myForm').submit();//提交
+}
+function toReset(){
+    document.getElementById('myForm').reset();//重置
+}
+</script>
+    
+    
+{% endblock %}
+

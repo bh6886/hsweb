@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>skyweb</title>
+
+<script src="/static/jquery/jquery.js"></script>
+<script src="/static/echarts/echarts.min.js"></script>
+<link rel="stylesheet" href="/static/css/bootstrap.min.css">
+<link rel="stylesheet" href="/static/css/bootstrap-theme.min.css">
+<script src="/static/js/bootstrap.min.js"></script>
+
+<style type="text/css">
+.STYLE1 {font-size: 24px}
+.STYLE2 {
+        font-size: 18px;
+        color: #FFF;
+}
+.STYLE4 {color: #FFFFFF;
+         font-size: 18px; 
+         }
+.STYLE5 {color: #FFFFFF;
+         }
+iframe {width:500px;height:90px;}
+ body{
+    /*background: blue;*/
+       background-repeat: no-repeat;
+       background-size:100% 100%;
+       background-attachment: fixed;
+       background-image:url('static/bj.jpg')
+
+   }
+   .STYLE9 {
+           color: #FFFFFF;
+           font-weight: bold;
+           }
+</style>
+</head>
+
+
+<body>
+
+{% block NR %}
+<div class="container-fluid">
+        <div class="row-fluid">
+        <div class="span12">
+            <h1 align="center" class="STYLE9">A+项目applus01部署</h1>
+        <div class="tabbable" id="tabs-320427">
+            <ul class="nav nav-tabs">
+            <li class="active">
+
+
+</div>
+<div>
+<p><span class="STYLE4"><strong>1.工程包传输：</strong></span></p>   
+<br \>   
+<form method="post" enctype="multipart/form-data" class="STYLE2">
+  <p>{{uf.as_p}}
+    <input class="btn btn-primary" name="button82" type="submit" class="STYLE1" target="_blank" value="点击上传"/>
+  <p><span class="STYLE9">{{ss}}</span>
+</form>
+<br \>   <br \>   <br \>   
+<p> <span  class="STYLE4"><strong>2.发布、日志查看、回滚:</strong></span> </p>
+
+  <input class="btn btn-primary" name="button82" type="button" class="STYLE1" onClick="window.open('/sun/A_applus_01_dep','_blank')" value="applus01发布"/>
+  <input class="btn btn-primary" name="button72" type="button" class="STYLE1" onClick="window.open('/sun/A_applus_01_dep','_blank')" value="applus01日志查看"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <input class="btn btn-primary" name="button72" type="button" class="STYLE1" onClick="window.open('/sun/A_applus_01_dep','_blank')" value="applus01回滚"/>
+<br \>   
+<br \>   
+  <input class="btn btn-primary" name="button82" type="button" class="STYLE1" onClick="window.open('/sun/A_applus_01_dep','_blank')" value="applus02发布"/>
+  <input class="btn btn-primary" name="button72" type="button" class="STYLE1" onClick="window.open('/sun/A_applus_01_dep','_blank')" value="applus02日志查看"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <input class="btn btn-primary" name="button72" type="button" class="STYLE1" onClick="window.open('/sun/A_applus_01_dep','_blank')" value="applus02回滚"/>
+<br \>   
+<br \>   
+<br \>   
+<p><span class="STYLE4"><strong>3.服务验证</strong></span> </p>
+
+<button class="btn btn-primary " type="button" onClick="window.open('http://192.168.3.23:8480','_blank')">查看applus01页面</button>
+<button class="btn btn-primary " type="button" onClick="window.open('http://192.168.3.25:8480','_blank')">查看applus02页面</button>
+
+
+</div>
+{% endblock %}
+
+<script type="text/javascript">
+(function() {
+        var btn = $(".btn");
+        btn.on("click", function(e) {
+        var thisBtn = $(this);
+        thisBtn.addClass("btn-success").data("stat", "true");
+        });
+        })()
+</script>
+                                                                              
+   
+
+    <div align="left">
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+    <address> 
+    <strong>sky-mobi.com</strong><br />
+   <!-- bh6886@qq.com<br />  
+    <abbr title="Phone">P:</abbr> 13372542902 -->
+    </address>
+    </div>
+
+</body>
+</html>
+
